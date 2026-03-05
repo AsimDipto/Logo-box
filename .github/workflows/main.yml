@@ -3,15 +3,19 @@ name: Unzip Logos and Push
 on:
   push:
     paths:
-      - 'logo.zip'  # Shudhu jokhon zip file update hobe tokhon cholbe
-  workflow_dispatch: # Manual run korar jonno
+      - 'logo.zip'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Permission explicitly add kora holo
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,5 +30,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add All-logo/
-          git commit -m "Automated: Unzipped 377+ logos to All-logo folder" || echo "No changes to commit"
+          git commit -m "Automated: Unzipped logos to All-logo folder" || echo "No changes to commit"
           git push
