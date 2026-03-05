@@ -1,0 +1,30 @@
+name: Unzip Logos and Push
+
+on:
+  push:
+    paths:
+      - 'logo.zip'  # Shudhu jokhon zip file update hobe tokhon cholbe
+  workflow_dispatch: # Manual run korar jonno
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Unzip Script
+        run: python unzip_logos.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add All-logo/
+          git commit -m "Automated: Unzipped 377+ logos to All-logo folder" || echo "No changes to commit"
+          git push
