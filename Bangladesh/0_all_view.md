@@ -1,18 +1,18 @@
 # Bangladesh 🇧🇩
 
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="btv-hd-bd.png" width="60"> | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
-| <img src="atn-bangla-hd-bd.png" width="60"> | ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
-| <img src="r-tv-bd.png" width="60"> | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] |
-| <img src="banglavision-bd.png" width="60"> | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] |
-| <img src="bijoy-tv-bd.png" width="60"> | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] | ![movie-bangla] | ![somoy-news] |
-| <img src="independent-bd.png" width="60"> | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] | ![channel-9-hd] | ![channel-24] |
-| <img src="gtv-bd.png" width="60"> | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] | ![asian-tv] | ![sa-tv] |
-| <img src="sa-tv-hd-bd.png" width="60"> | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] | ![deepto-tv-hd] |
-| <img src="dbc-news-bd.png" width="60"> | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
-| <img src="ananda-tv-bd.png" width="60"> | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
-| <img src="nexus-television-bd.png" width="60"> | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | | |
+| | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="btv-hd-bd.png" width="60"> | ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
+| <img src="atn-bangla-hd-bd.png" width="60"> | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] |
+| <img src="r-tv-bd.png" width="60"> | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] |
+| <img src="banglavision-bd.png" width="60"> | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] | ![movie-bangla] | ![somoy-news] |
+| <img src="bijoy-tv-bd.png" width="60"> | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] | ![channel-9-hd] | ![channel-24] |
+| <img src="independent-bd.png" width="60"> | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] | ![asian-tv] | ![sa-tv] |
+| <img src="gtv-bd.png" width="60"> | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] | ![deepto-tv-hd] |
+| <img src="sa-tv-hd-bd.png" width="60"> | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
+| <img src="dbc-news-bd.png" width="60"> | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
+| <img src="ananda-tv-bd.png" width="60"> | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![space] | ![space] |
+| <img src="nexus-television-bd.png" width="60"> | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv-ctg]:btv-chattogram-bd.png
 [btv-world]:btv-world-bd.png
@@ -67,3 +67,5 @@
 [nexus-tv-hd]:nexus-television-hd-bd.png
 [channel-s]:channel-s-bd.png
 [deshi-tv]:deshi-tv-bd.png
+
+[space]:../../misc/space-1500.png "Space"
