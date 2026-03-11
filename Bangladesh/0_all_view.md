@@ -1,10 +1,9 @@
 # Bangladesh 🇧🇩
 
-
-| **F** | ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
-| **u** | ![atn-bangla-hd] |
+| SL | Channel 1 | Channel 2 | Channel 3 | Channel 4 | Channel 5 | Channel 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
+| **F** | ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
+| **u** | ![atn-bangla-hd] | ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
 | **c** | ![rtv] | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] |
 | **k** | ![banglavision] | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] |
 | **y** | ![bijoy-tv] | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] | ![movie-bangla] | ![somoy-news] |
@@ -14,72 +13,69 @@
 | **n** | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
 | **k** | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
 | **i** | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![space] | ![space] |
-| **t** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
-| **a** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
-[btv-hd]:btv-hd-bd.png
-[btv-ctg]:btv-chattogram-bd.png
-[btv-world]:btv-world-bd.png
-[btv-news]:btv-news-bd.png
-[sangsad-tv]:sangsad-television-bd.png
-[atn-bangla]:atn-bangla-bd.png
-[atn-bangla-hd]:atn-bangla-hd-bd.png
-[channel-i]:channel-i-bd.png
-[channel-i-hd]:channel-i-hd-bd.png
-[ntv]:n-tv-bd.png
-[atn-news]:atn-news-bd.png
-[atn-news-hd]:atn-news-hd-bd.png
-[rtv]:r-tv-bd.png
-[rtv-hd]:r-tv-hd-bd.png
-[ekushey-tv]:ekushey-tv-bd.png
-[ekushey-tv-hd]:ekushey-tv-hd-bd.png
-[boishakhi-tv]:boishakhi-tv-bd.png
-[boishakhi-tv-hd]:boishakhi-tv-hd-bd.png
-[banglavision]:banglavision-bd.png
-[banglavision-hd]:banglavision-hd-bd.png
-[desh-tv]:desh-tv-bd.png
-[desh-tv-hd]:desh-tv-hd-bd.png
-[my-tv]:my-tv-bd.png
-[my-tv-hd]:my-tv-hd-bd.png
-[bijoy-tv]:bijoy-tv-bd.png
-[bijoy-tv-hd]:bijoy-tv-hd-bd.png
-[mohona-tv]:mohona-tv-bd.png
-[mohona-tv-hd]:mohona-tv-hd-bd.png
-[movie-bangla]:movie-bangla-tv-bd.png
-[somoy-news]:somoy-bd.png
-[independent-tv]:independent-bd.png
-[maasranga-tv]:maasranga-bd.jpg
-[maasranga-tv-hd]:maasranga-hd-bd.png
-[channel-9]:channel-9-bd.png
-[channel-9-hd]:channel-9-hd-bd.png
-[channel-24]:channel-24-bd.png
-[gazi-tv]:gtv-bd.png
-[gtv-hd]:gtv-hd-bd.png
-[ekattor-tv]:ekattoe-tv-bd.png
-[ekattor-tv-hd]:ekattor-tv-hd-bd.png
-[asian-tv]:asian-tv-bd.png
-[sa-tv]:sa-tv-bd.png
-[sa-tv-hd]:sa-tv-hd-bd.png
-[gaan-bangla]:gaan-bangla-bd.png
-[jamuna-tv]:jamuna-tv-bd.png
-[dbc-news]:dbc-news-bd.png
-[ekhon-tv]:ekhon-bd.png
-[deepto-tv]:deepto-tv-bd.png
-[deepto-tv-hd]:deepto-tv-hd-bd.png
-[news-24]:news-24-bd.png
-[news-24-hd]:news-24-hd-bd.png
-[bangla-tv]:bangla-tv-bd.png
-[bangla-tv-hd]:bangla-tv-hd-bd.png
-[duronto-tv]:duronto-bd.png
-[ananda-tv]:ananda-tv-bd.png
-[t-sports]:t-sports-bd.png
-[t-sports-hd]:t-sports-hd-bd.png
-[green-tv]:green-tv-bd.png
-[global-tv]:globl-televizion-bd.png
-[global-tv-hd]:globl-televizion-hd-bd.png
-[nexus-tv]:nexus-television-bd.png
-[nexus-tv-hd]:nexus-television-hd-bd.png
-[channel-s]:channel-s-bd.png
-[deshi-tv]:deshi-tv-bd.png
-
+[btv-hd]: btv-hd-bd.png
+[btv-ctg]: btv-chattogram-bd.png
+[btv-world]: btv-world-bd.png
+[btv-news]: btv-news-bd.png
+[sangsad-tv]: sangsad-television-bd.png
+[atn-bangla]: atn-bangla-bd.png
+[atn-bangla-hd]: atn-bangla-hd-bd.png
+[channel-i]: channel-i-bd.png
+[channel-i-hd]: channel-i-hd-bd.png
+[ntv]: n-tv-bd.png
+[atn-news]: atn-news-bd.png
+[atn-news-hd]: atn-news-hd-bd.png
+[rtv]: r-tv-bd.png
+[rtv-hd]: r-tv-hd-bd.png
+[ekushey-tv]: ekushey-tv-bd.png
+[ekushey-tv-hd]: ekushey-tv-hd-bd.png
+[boishakhi-tv]: boishakhi-tv-bd.png
+[boishakhi-tv-hd]: boishakhi-tv-hd-bd.png
+[banglavision]: banglavision-bd.png
+[banglavision-hd]: banglavision-hd-bd.png
+[desh-tv]: desh-tv-bd.png
+[desh-tv-hd]: desh-tv-hd-bd.png
+[my-tv]: my-tv-bd.png
+[my-tv-hd]: my-tv-hd-bd.png
+[bijoy-tv]: bijoy-tv-bd.png
+[bijoy-tv-hd]: bijoy-tv-hd-bd.png
+[mohona-tv]: mohona-tv-bd.png
+[mohona-tv-hd]: mohona-tv-hd-bd.png
+[movie-bangla]: movie-bangla-tv-bd.png
+[somoy-news]: somoy-bd.png
+[independent-tv]: independent-bd.png
+[maasranga-tv]: maasranga-bd.jpg
+[maasranga-tv-hd]: maasranga-hd-bd.png
+[channel-9]: channel-9-bd.png
+[channel-9-hd]: channel-9-hd-bd.png
+[channel-24]: channel-24-bd.png
+[gazi-tv]: gtv-bd.png
+[gtv-hd]: gtv-hd-bd.png
+[ekattor-tv]: ekattoe-tv-bd.png
+[ekattor-tv-hd]: ekattor-tv-hd-bd.png
+[asian-tv]: asian-tv-bd.png
+[sa-tv]: sa-tv-bd.png
+[sa-tv-hd]: sa-tv-hd-bd.png
+[gaan-bangla]: gaan-bangla-bd.png
+[jamuna-tv]: jamuna-tv-bd.png
+[dbc-news]: dbc-news-bd.png
+[ekhon-tv]: ekhon-bd.png
+[deepto-tv]: deepto-tv-bd.png
+[deepto-tv-hd]: deepto-tv-hd-bd.png
+[news-24]: news-24-bd.png
+[news-24-hd]: news-24-hd-bd.png
+[bangla-tv]: bangla-tv-bd.png
+[bangla-tv-hd]: bangla-tv-hd-bd.png
+[duronto-tv]: duronto-bd.png
+[ananda-tv]: ananda-tv-bd.png
+[t-sports]: t-sports-bd.png
+[t-sports-hd]: t-sports-hd-bd.png
+[green-tv]: green-tv-bd.png
+[global-tv]: globl-televizion-bd.png
+[global-tv-hd]: globl-televizion-hd-bd.png
+[nexus-tv]: nexus-television-bd.png
+[nexus-tv-hd]: nexus-television-hd-bd.png
+[channel-s]: channel-s-bd.png
+[deshi-tv]: deshi-tv-bd.png
 [space]: https://raw.githubusercontent.com/pypa/warehouse/main/warehouse/static/images/helper-arrow.png
