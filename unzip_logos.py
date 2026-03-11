@@ -30,4 +30,4 @@ def extract_logos(zip_path, extract_path):
     print(f"Success! Logos and MD files are now in {extract_path}")
 
 if __name__ == "__main__":
-    extract_logos('logo.zip', 'All-logo')
+    extract_logos('logo.zip', 'India')
