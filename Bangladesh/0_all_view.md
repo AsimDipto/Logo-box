@@ -1,7 +1,7 @@
-# Bangladesh🇧🇩
+# Bangladesh 🇧🇩
 
-| ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-ban] |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | ![atn-bangla-hd] | ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
 | ![rtv] | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] |
 | ![banglavision] | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] |
