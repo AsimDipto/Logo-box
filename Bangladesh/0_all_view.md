@@ -3,15 +3,15 @@
 | ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![atn-bangla-hd] | ![channel-i] | ![channel-i-hd] | ![ntv] | ![atn-news] | ![atn-news-hd] |
-| ![rtv] | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![etv] | ![etv-hd] |
-| ![boishakhi-tv] | ![boishakhi-tv-hd] | ![banglavision] | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] |
-| ![my-tv] | ![my-tv-hd] | ![bijoy-tv] | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] |
-| ![movie-bangla] | ![somoy-news] | ![independent-tv] | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] |
-| ![channel-9-hd] | ![channel-24] | ![gazi-tv] | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] |
-| ![asian-tv] | ![sa-tv] | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] |
-| ![deepto-tv] | ![deepto-tv-hd] | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] |
-| ![bangla-tv-hd] | ![duronto-tv] | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] |
-| ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] |
+| ![rtv] | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] |
+| ![banglavision] | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] |
+| ![bijoy-tv] | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] | ![movie-bangla] | ![somoy-news] |
+| ![independent-tv] | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] | ![channel-9-hd] | ![channel-24] |
+| ![gazi-tv] | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] | ![asian-tv] | ![sa-tv] |
+| ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] | ![deepto-tv-hd] |
+| ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
+| ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
+| ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | | |
 
 [btv-hd]:btv-hd-bd.png
 [btv-ctg]:btv-chattogram-bd.png
@@ -29,8 +29,6 @@
 [rtv-hd]:r-tv-hd-bd.png
 [ekushey-tv]:ekushey-tv-bd.png
 [ekushey-tv-hd]:ekushey-tv-hd-bd.png
-[etv]:ekushey-tv-bd.png
-[etv-hd]:ekushey-tv-hd-bd.png
 [boishakhi-tv]:boishakhi-tv-bd.png
 [boishakhi-tv-hd]:boishakhi-tv-hd-bd.png
 [banglavision]:banglavision-bd.png
