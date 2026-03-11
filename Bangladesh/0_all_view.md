@@ -1,8 +1,6 @@
 # Bangladesh 🇧🇩
 
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![btv-world] | ![btv-ctg] | ![btv-national] | ![btv-news] | ![peace-tv-bangla-hd] | ![time-tv-usa] |
+![btv-world] | ![btv-ctg] | ![btv-national] | ![btv-news] | ![peace-tv-bangla-hd] | ![time-tv-usa] |
 | ![channel-i] | ![channel-i-hd] | ![ntv] | ![bangla-vision] | ![bangla-vision-hd] | ![rtv] |
 | ![rtv-hd] | ![atn-bangla] | ![atn-bangla-hd] | ![etv] | ![etv-hd] | ![maasranga-tv] |
 | ![maasranga-tv-hd] | ![deepto-tv] | ![deepto-tv-hd] | ![gazi-tv] | ![gazi-tv-hd] | ![desh-tv] |
