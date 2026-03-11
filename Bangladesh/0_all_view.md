@@ -53,7 +53,7 @@
 [channel-24]:channel-24-bd.png
 [gazi-tv]:gtv-bd.png
 [gtv-hd]:gtv-hd-bd.png
-[ekattor-tv]:ekattoe-tv-bd.png
+[ekattor-tv]:ekattor-tv-bd.png
 [ekattor-tv-hd]:ekattor-tv-hd-bd.png
 [asian-tv]:asian-tv-bd.png
 [sa-tv]:sa-tv-bd.png
