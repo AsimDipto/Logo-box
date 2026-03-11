@@ -11,7 +11,7 @@
 | **A** | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] | ![deepto-tv-hd] |
 | **n** | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
 | **k** | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
-| **i** | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![] | ![space] |
+| **i** | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![ ] | ![space] |
 | **t** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | **a** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
