@@ -5,7 +5,7 @@ import shutil
 def unzip_and_organize():
     zip_file = 'logo.zip'
     extract_to = 'temp_extraction'
-    final_folder = 'India'
+    final_folder = 'Bangladesh'
 
     # 1. Check if the zip file exists
     if not os.path.exists(zip_file):
@@ -24,7 +24,7 @@ def unzip_and_organize():
 
     # 4. Move files from the internal 'India' folder to the root 'India' folder
     # Your screenshot shows the files are inside an 'India' folder in the zip
-    source_path = os.path.join(extract_to, 'India')
+    source_path = os.path.join(extract_to, 'Bangladesh')
     
     if os.path.exists(source_path):
         for filename in os.listdir(source_path):
@@ -34,7 +34,7 @@ def unzip_and_organize():
                 shutil.move(file_path, os.path.join(final_folder, filename))
         print(f"Successfully moved logos to {final_folder} folder.")
     else:
-        print("Error: Could not find 'India' folder inside the zip.")
+        print("Error: Could not find 'Bangladesh' folder inside the zip.")
 
     # 5. Cleanup
     shutil.rmtree(extract_to)
