@@ -12,7 +12,7 @@
 | **n** | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] |
 | **k** | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] |
 | **i** | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![cb-24-tv] | ![deshebideshe-tv] |
-| **t** | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] | ![channel-52] | ![channel-s-uk] | ![space] |
+| **t** | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] | ![channel-52] | ![channel-s-uk] | ![time-tv] |
 | **a** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv-hd]:btv-hd-bd.png
@@ -73,8 +73,8 @@
 [t-sports]:t-sports-bd.png
 [t-sports-hd]:t-sports-hd-bd.png
 [green-tv]:green-tv-bd.png
-[global-tv]:globl-televizion-bd.png
-[global-tv-hd]:globl-televizion-hd-bd.png
+[global-tv]:global-television-bd.png
+[global-tv-hd]:global-television-hd-bd.png
 [nexus-tv]:nexus-television-bd.png
 [nexus-tv-hd]:nexus-television-hd-bd.png
 [channel-s]:channel-s-bd.png
@@ -84,6 +84,7 @@
 [channel-52]:channel-52-bd.png
 [cb-24-tv]:cb-24-tv-bd.png
 [biswa-bangla-24-tv]:biswa-bangla-24-tv-bd.png
+[time-tv]:time-television-bd.png
 [ayna-tv]:ayna-tv-bd.png
 [bartoman-television]:bartoman-television-bd.png
 
