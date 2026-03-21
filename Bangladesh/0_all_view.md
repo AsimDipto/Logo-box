@@ -1,18 +1,19 @@
 # Bangladesh 🇧🇩
 
-| ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] | ![atn-bangla-hd] |
+| **F** | ![btv-hd] | ![btv-ctg] | ![btv-world] | ![btv-news] | ![sangsad-tv] | ![atn-bangla] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![channel-i] | ![channel-i-hd] | ![ntv] | ![ntv-hd] | ![atn-news] | ![atn-news-hd] | ![rtv] |
-| ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] | ![boishakhi-tv-hd] | ![banglavision] | ![banglavision-hd] |
-| ![desh-tv] | ![desh-tv-hd] | ![my-tv] | ![my-tv-hd] | ![bijoy-tv] | ![bijoy-tv-hd] | ![mohona-tv] |
-| ![mohona-tv-hd] | ![movie-bangla] | ![somoy-news] | ![independent-tv] | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] |
-| ![channel-9-hd] | ![channel-24] | ![gazi-tv] | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] | ![asian-tv] |
-| ![sa-tv] | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] | ![deepto-tv-hd] |
-| ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] | ![ananda-tv] |
-| ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] |
-| ![channel-s] | ![deshi-tv] | ![cb-24-tv] | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] |
-| ![channel-52] | ![channel-s-uk] | ![time-tv] | ![space] | ![space] | ![space] |
-
+| **u** | ![atn-bangla-hd] | ![channel-i] | ![channel-i-hd] | ![ntv] | ![ntv-hd] | ![atn-news] |
+| **c** | ![atn-news-hd] | ![rtv] | ![rtv-hd] | ![ekushey-tv] | ![ekushey-tv-hd] | ![boishakhi-tv] |
+| **k** | ![boishakhi-tv-hd] | ![banglavision] | ![banglavision-hd] | ![desh-tv] | ![desh-tv-hd] | ![my-tv] |
+| **y** | ![my-tv-hd] | ![bijoy-tv] | ![bijoy-tv-hd] | ![mohona-tv] | ![mohona-tv-hd] | ![movie-bangla] |
+| **o** | ![somoy-news] | ![independent-tv] | ![maasranga-tv] | ![maasranga-tv-hd] | ![channel-9] | ![channel-9-hd] |
+| **u** | ![channel-24] | ![gazi-tv] | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] | ![asian-tv] |
+| **A** | ![sa-tv] | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] |
+| **n** | ![deepto-tv-hd] | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] |
+| **k** | ![duronto-tv] | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] |
+| **i** | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![cb-24-tv] |
+| **t** | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] | ![channel-52] | ![channel-s-uk] |
+| **a** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv-hd]:btv-hd-bd.png
 [btv-ctg]:btv-chattogram-bd.png
