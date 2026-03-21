@@ -25,7 +25,7 @@
 [channel-i]:channel-i-bd.png
 [channel-i-hd]:channel-i-hd-bd.png
 [ntv]:n-tv-bd.png
-[ntv-hd]:n-tv-bd-hd.png
+[ntv-hd]:n-tv-hd-bd.png
 [atn-news]:atn-news-bd.png
 [atn-news-hd]:atn-news-hd-bd.png
 [rtv]:r-tv-bd.png
