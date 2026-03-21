@@ -14,7 +14,7 @@
 | **i** | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] | ![cb-24-tv] |
 | **t** | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] | ![channel-52] | ![channel-s-uk] |
 | **a** | ![time-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
-| ![space] | ![time-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![space] | ![time-tv] | ![space] | ![space] | ![space] | ![space] |
 
 [btv-hd]:btv-hd-bd.png
 [btv-ctg]:btv-chattogram-bd.png
