@@ -11,7 +11,7 @@
 | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] | ![bangla-tv-hd] | ![duronto-tv] | ![ananda-tv] |
 | ![t-sports] | ![t-sports-hd] | ![green-tv] | ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] |
 | ![channel-s] | ![deshi-tv] | ![cb-24-tv] | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] |
-| ![channel-52] | ![channel-s-uk] | ![time-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![channel-52] | ![channel-s-uk] | ![time-tv] | ![space] | ![space] | ![space] | ![space] |
 
 
 [btv-hd]:btv-hd-bd.png
