@@ -57,7 +57,6 @@
 [ekattor-tv]:ekattor-tv-bd.png
 [ekattor-tv-hd]:ekattor-tv-hd-bd.png
 [asian-tv]:asian-tv-bd.png
-| ![sa-tv] | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] | ![deepto-tv] |
 [sa-tv]:sa-tv-bd.png
 [sa-tv-hd]:sa-tv-hd-bd.png
 [gaan-bangla]:gaan-bangla-bd.png
@@ -75,4 +74,19 @@
 [t-sports]:t-sports-bd.png
 [t-sports-hd]:t-sports-hd-bd.png
 [green-tv]:green-tv-bd.png
-[global-tv]:global
+[global-tv]:global-television-bd.png
+[global-tv-hd]:global-television-hd-bd.png
+[nexus-tv]:nexus-television-bd.png
+[nexus-tv-hd]:nexus-television-hd-bd.png
+[channel-s]:channel-s-bd.png
+[deshi-tv]:deshi-tv-bd.png
+[deshebideshe-tv]:deshebideshe-tv-bd.png
+[channel-s-uk]:channel-s-uk-bd.png
+[channel-52]:channel-52-bd.png
+[cb-24-tv]:cb-24-tv-bd.png
+[biswa-bangla-24-tv]:biswa-bangla-24-tv-bd.png
+[time-tv]:time-television-bd.png
+[ayna-tv]:ayna-tv-bd.png
+[bartoman-television]:bartoman-television-bd.png
+
+[space]: https://raw.githubusercontent.com/pypa/warehouse/main/warehouse/static/images/helper-arrow.png
