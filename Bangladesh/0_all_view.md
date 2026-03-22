@@ -10,10 +10,10 @@
 | **u** | ![channel-9-hd] | ![channel-24] | ![gazi-tv] | ![gtv-hd] | ![ekattor-tv] | ![ekattor-tv-hd] |
 | **A** | ![asian-tv] | ![sa-tv] | ![sa-tv-hd] | ![gaan-bangla] | ![jamuna-tv] | ![ekhon-tv] |
 | **n** | ![deepto-tv] | ![deepto-tv-hd] | ![dbc-news] | ![news-24] | ![news-24-hd] | ![bangla-tv] |
-| **k** | ![bangla-tv-hd] | ![duronto-tv] | ![ananda-tv] | ![t-sports] | ![t-sports-hd] | ![green-tv] |
-| **i** | ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![channel-s] | ![deshi-tv] |
+| **k** | ![bangla-tv-hd] | ![bangla-tv-eu] | ![duronto-tv] | ![ananda-tv] | ![t-sports] | ![t-sports-hd] |
+| **i** | ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![green-tv] | ![deshi-tv] |
 | **t** | ![cb-24-tv] | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] | ![channel-52] |
-| **a** | ![channel-s-uk] | ![time-tv] | ![space] | ![space] | ![space] | ![space] |
+| **a** | ![channel-s] | ![channel-s-uk] | ![time-tv] | ![star-news] | ![space] | ![space] |
 | **🥱** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv]:btv-bd.png
@@ -70,6 +70,7 @@
 [news-24-hd]:news-24-hd-bd.png
 [bangla-tv]:bangla-tv-bd.png
 [bangla-tv-hd]:bangla-tv-hd-bd.png
+[bangla-tv-eu]:bangla-tv-europe-bd.png
 [duronto-tv]:duronto-bd.png
 [ananda-tv]:ananda-tv-bd.png
 [dbc-news]:dbc-news-bd.png
@@ -90,5 +91,6 @@
 [time-tv]:time-television-bd.png
 [ayna-tv]:ayna-tv-bd.png
 [bartoman-television]:bartoman-television-bd.png
+[star-news]:star-news-bd.png
 
 [space]: https://raw.githubusercontent.com/pypa/warehouse/main/warehouse/static/images/helper-arrow.png
