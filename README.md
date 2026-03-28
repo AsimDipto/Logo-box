@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-blue?style=for-the-badge&logo=github" alt="Developer Contact">
   </a>
   <img src="https://img.shields.io/github/stars/AsimDipto/Logo-box?style=for-the-badge&color=gold" alt="Stars">
-  <img src="https://img.shields.io/badge/Quality-4K%20%2F%20HD-brightgreen?style=for-the-badge" alt="Quality">
+  <img src="https://img.shields.io/badge/Quality-4K%20%2F%20FHD-brightgreen?style=for-the-badge" alt="Quality">
   <img src="https://img.shields.io/badge/Format-Transparent%20PNG-orange?style=for-the-badge" alt="Format">
 </p>
 
