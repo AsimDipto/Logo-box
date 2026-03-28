@@ -2,8 +2,8 @@
 > A premium, high-definition repository for Bangladeshi and Indian television channel logos. Optimized for IPTV, Web, and Mobile Applications.
 
 <p align="center">
-  <a href="mailto:dipto0093@gmail.com">
-    <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Developer Contact">
+  <a href="https://github.com/AsimDipto">
+    <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-black?style=for-the-badge&logo=github&logoColor=white" alt="Developer GitHub">
   </a>
   <img src="https://img.shields.io/github/stars/AsimDipto/Logo-box?style=for-the-badge&color=gold" alt="Stars">
   <img src="https://img.shields.io/badge/Quality-4K%20%2F%20HD-brightgreen?style=for-the-badge" alt="Quality">
@@ -53,9 +53,10 @@ Click the buttons below to explore the **Full Collection** for each country:
 ---
 
 ### ✨ Developer-First Features
-1.  💎 **No Artifacts:** Every logo is manually cleaned to ensure zero white borders or fringing.
-2.  ☁️ **Cloud Optimized:** Compressed file sizes for lightning-fast loading without quality loss.
-3.  🛠️ **Standard Naming:** Consistent `channel-name-hd.png` format for easy automation.
+1.  🚀 **CDN Ready:** Served directly via GitHub Raw, ensuring fast and reliable access for your apps.
+2.  🎨 **Standardized Aspect Ratio:** Logos are pre-processed to fit perfectly in standard IPTV and Web player grids.
+3.  ⚙️ **Naming Convention:** Uses logical `channel-name-hd-bd.png` format, making automated scraping and mapping effortless.
+4.  📦 **Batch Optimized:** Metadata and headers are stripped to keep file sizes minimal while maintaining 4K/FHD clarity.
 
 ### 🛠️ Quick Start Guide
 To link a logo directly from our CDN, use the following URL format:
