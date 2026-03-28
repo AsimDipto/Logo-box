@@ -2,8 +2,8 @@
 > A premium, high-definition repository for Bangladeshi and Indian television channel logos. Optimized for IPTV, Web, and Mobile Applications.
 
 <p align="center">
-  <a href="https://github.com/AsimDipto">
-    <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-black?style=for-the-badge&logo=github&logoColor=white" alt="Developer GitHub">
+  <a href="mailto:dipto0093@gmail.com">
+    <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-black?style=for-the-badge&logo=github&logoColor=white" alt="Developer Contact">
   </a>
   <img src="https://img.shields.io/github/stars/AsimDipto/Logo-box?style=for-the-badge&color=gold" alt="Stars">
   <img src="https://img.shields.io/badge/Quality-4K%20%2F%20HD-brightgreen?style=for-the-badge" alt="Quality">
