@@ -35,7 +35,7 @@ Here is a small preview of the high-quality transparent logos available in this 
 
 | 🇧🇩 Bangladesh Channels | 🇮🇳 Indian Channels |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/somoy-tv.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/n-tv.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/channel-i.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/star-sports-1.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/sony-six.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/zee-bangla.png" |
+| <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/somoy-bd.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/n-tv-hd-bd.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/channel-i-hd-bd.png" width="80px"> | <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/star-sports-1-in.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/sony-ten-1-hd-in.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/zee-bangla-hd-in.png" width="80px"> |
 
 ### 📸 Full Visual Previews
 Click the buttons below to see the **Full Collection** of logos for each country:
