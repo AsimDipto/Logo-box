@@ -27,8 +27,8 @@
 ### 📂 Repository Structure
 The library is organized to make your development workflow smoother than ever:
 
-*   **`📂 Bangladesh/`**: Includes all types of Bangladeshi Government and private channels.
-*   **`📂 India/`**: Organized by categories like News, Kids, Music, Entertainment, etc.
+* **`📂 Bangladesh/`**: Includes all types of Bangladeshi Government and private channels.
+* **`📂 India/`**: Organized by categories like News, Kids, Music, Entertainment, etc.
 
 ### 🖼️ Featured Previews
 A glimpse of the high-quality transparent logos available in this library:
@@ -42,11 +42,11 @@ Click the buttons below to explore the **Full Collection** for each country:
 
 <p align="center">
   <a href="https://github.com/AsimDipto/Logo-box/blob/main/Bangladesh/0_all_view.md">
-    <img src="https://img.shields.io/badge/View%20All-Bangladesh%20Logos-green?style=for-the-badge&logo=airplay&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/View%20All-Bangladesh%20Logos-31a24c?style=for-the-badge&logo=airplay&logoColor=white" height="40">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AsimDipto/Logo-box/blob/main/India/0_all_view.md">
-    <img src="https://img.shields.io/badge/View%20All-Indian%20Logos-orange?style=for-the-badge&logo=airplay&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/View%20All-Indian%20Logos-ff6c37?style=for-the-badge&logo=airplay&logoColor=white" height="40">
   </a>
 </p>
 
@@ -69,6 +69,6 @@ All logos and trademarks are the property of their respective owners. This repos
 
 ### 🤝 Connect & Support
 If this library saves you time, please show your support!
-*   🌟 **Star** this repository to help others find it.
+* 🌟 **Star** this repository to help others find it.
 
 **Maintained with ❤️ by [Asim_Dipto](https://github.com/AsimDipto)**
