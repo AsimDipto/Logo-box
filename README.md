@@ -1,45 +1,70 @@
-# 📺 Logo-box: The Ultimate TV Logo Collection
-> High-quality, transparent PNG logos for all Bangladeshi & Indian TV channels.
+# 📺 Logo-box: The Ultimate South Asian TV Logo Library
+> A premium, high-definition repository for all Bangladeshi and Indian television channel logos. Optimized for IPTV, Web, and Mobile Applications.
 
-![Developer](https://img.shields.io/badge/Developed%20By-Asim__Dipto-blue?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/AsimDipto/Logo-box?style=for-the-badge&color=gold)
-![Status](https://img.shields.io/badge/Project-Professional-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Developed%20By-Asim__Dipto-blue?style=for-the-badge&logo=github" alt="Developer">
+  <img src="https://img.shields.io/github/stars/AsimDipto/Logo-box?style=for-the-badge&color=gold" alt="Stars">
+  <img src="https://img.shields.io/badge/Quality-4K%20%2F%20HD-brightgreen?style=for-the-badge" alt="Quality">
+  <img src="https://img.shields.io/badge/Format-Transparent%20PNG-orange?style=for-the-badge" alt="Format">
+</p>
 
 ---
 
-### 🚀 Overview
-**Logo-box** is a high-performance repository crafted for developers and IPTV enthusiasts. We provide pixel-perfect, **transparent background** logos for every major broadcast network in South Asia.
+### 🚀 Project Overview
+**Logo-box** provides a standardized, pixel-perfect collection of television logos. No more searching for low-quality images with white backgrounds. We provide **100% transparent PNGs** ready to be dropped into any UI.
 
-### 🗺️ Content Coverage
-| Region | Categories Included | Quality | Status |
+### 🗺️ Extensive Coverage
+
+| Region | Content Focus | Language | Status |
 | :--- | :--- | :--- | :--- |
-| **🇧🇩 Bangladesh** | Government & Private (News, Music, Entertainment) | HD/SD | ✅ Verified |
-| **🇮🇳 India** | Sports, Kids, Infotainment, Star, Sony, Zee Networks | 4K/HD | ✅ Verified |
+| **🇧🇩 Bangladesh** | All Government & Private Channels (News, Music, Movies) | Bengali | ✅ Verified |
+| **🇮🇳 India** | Star, Sony, Zee Networks, Sports, Kids, Infotainment | Hindi/Regional | ✅ Verified |
 
 ---
 
-### 📂 Repository Structure
-Our library is organized to support seamless integration for **Flutter**, **Android Studio**, and **Web** projects.
+### 📂 Specialized Repository Structure
+The library is structured to make your development workflow smoother than ever.
 
-*   `📂 Bangladesh/`: Contains all **Government and Private** television channel logos of Bangladesh. (বাংলাদেশের সকল সরকারি-বেসরকারি টেলিভিশন চ্যানেল লোগো)
-*   `📂 India/`: Contains all **Major Network and Category-wise** logos of India. (ইন্ডিয়ান সকল ক্যাটাগরি ও নেটওয়ার্ক লোগো)
-    *   *Sub-categories: Sports, Kids, News, Entertainment, Movies.*
+*   **`📂 Bangladesh/`**: বাংলাদেশের সকল সরকারি-বেসরকারি টেলিভিশন চ্যানেল লোগো।
+*   **`📂 India/`**: ইন্ডিয়ান সকল নেটওয়ার্ক ও ক্যাটাগরি ভিত্তিক লোগো (Sports, News, Entertainment, Kids etc.)
 
-### ✨ Why Developers Love Logo-box?
-*   💎 **Crystal Clear:** High-resolution PNGs with smooth edges.
-*   ☁️ **Zero Background:** 100% Transparent; looks perfect on Dark or Light UI.
-*   ⚡ **Optimized:** Small file sizes for lightning-fast app loading.
-*   🛠️ **Standard Naming:** Easy to call in code (e.g., `channel-name-hd.png`).
+### 📸 Instant Visual Previews
+Don't want to browse folders? See all logos at a glance with our dedicated view files:
+
+<p align="center">
+  <a href="https://github.com/AsimDipto/Logo-box/blob/main/Bangladesh/0_all_view.md">
+    <img src="https://img.shields.io/badge/Preview-Bangladesh%20Logos-green?style=for-the-edge&logo=airplay&logoColor=white" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AsimDipto/Logo-box/blob/main/India/0_all_view.md">
+    <img src="https://img.shields.io/badge/Preview-Indian%20Logos-orange?style=for-the-edge&logo=airplay&logoColor=white" height="40">
+  </a>
+</p>
 
 ---
 
-### 📸 Preview (Coming Soon)
-> **Pro Tip:** To use a logo directly in your app, right-click the file on GitHub and select **"Copy Image Address"** to get the Raw link.
+### ✨ Developer-First Features
+Why is **Logo-box** different from other collections?
+
+1.  💎 **No Artifacts:** Every logo is manually cleaned to ensure zero white borders or artifacts.
+2.  ☁️ **Cloud Optimized:** Small file sizes (WebP/PNG) to keep your app's bundle size low.
+3.  🛠️ **Standard Naming (SEO Friendly):**
+    *   Example: `star-sports-1-hd.png`
+    *   Example: `somoy-tv.png`
+    *   *No spaces or special characters – easy to call in your JSON or Python scripts.*
+
+### 🛠️ How to use in your App (Quick Start)
+To use a logo directly from our CDN (GitHub Raw), use this format:
+`https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/FILE_NAME.png`
 
 ---
 
-### 🤝 Support the Project
-If this repository helps your development, please give it a **Star** ⭐ to keep the project alive!
+### 🛡️ Disclaimer
+All logos, trademarks, and registered trademarks are the property of their respective owners. This repository is intended for **Educational and Non-Commercial development purposes only**.
 
-Maintained with ❤️ by [Asim_Dipto](https://github.com/AsimDipto)
+### 🤝 Connect & Support
+If this library saves you time, please show your support!
+*   🌟 **Star** this repository to make it easier for others to find.
+*   🍴 **Fork** it to suggest new logo updates.
+
+**Maintained with ❤️ by [Asim_Dipto](https://github.com/AsimDipto)**
