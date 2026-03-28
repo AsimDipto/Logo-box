@@ -1,4 +1,4 @@
-# 📺 Logo-box: The Ultimate South Asian TV Logo Library
+# 📺 Logo-box: The Ultimate LoGo Collection
 > A premium, high-definition repository for all Bangladeshi and Indian television channel logos. Optimized for IPTV, Web, and Mobile Applications.
 
 <p align="center">
@@ -19,23 +19,23 @@
 
 | Region | Content Focus | Logo Quality | Background | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **🇧🇩 Bangladesh** | Government & Private Channels | **Ultra HD / HD** | **Transparent** | ✅ Verified |
-| **🇮🇳 India** | Star, Sony, Zee, Sports, Kids | **4K / Ultra HD** | **Transparent** | ✅ Verified |
+| **🇧🇩 Bangladesh** | Government & Private Channels | **FHD / SD** | **Transparent** | ✅ Active |
+| **🇮🇳 India** | Star, Sony, Zee, Sports, Kids | **4K / FHD** | **Transparent** | ✅ Active |
 
 ---
 
 ### 📂 Specialized Repository Structure
 The library is structured to make your development workflow smoother than ever.
 
-*   **`📂 Bangladesh/`**: বাংলাদেশের সকল সরকারি-বেসরকারি টেলিভিশন চ্যানেল লোগো। (News, Kids, Music, Entertainment)
-*   **`📂 India/`**: ইন্ডিয়ান সকল নেটওয়ার্ক ও ক্যাটাগরি ভিত্তিক লোগো (Sports, Star, Sony, Zee, Kids etc.)
+*   **`📂 Bangladesh/`**: Bangladeshi all types of Government and private channel
+*   **`📂 India/`**: News, Kids, Music, Entertainment etc all categories
 
 ### 🖼️ Featured Previews
 Here is a small preview of the high-quality transparent logos available in this library:
 
 | 🇧🇩 Bangladesh Channels | 🇮🇳 Indian Channels |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/somoy-tv.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/n-tv.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/channel-i.png" width="80px"> | <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/star-sports-1.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/sony-six.png" width="80px"> <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/zee-bangla.png" width="80px"> |
+| <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/somoy-tv.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/n-tv.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/Bangladesh/channel-i.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/star-sports-1.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/sony-six.png" <img src="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/zee-bangla.png" |
 
 ### 📸 Full Visual Previews
 Click the buttons below to see the **Full Collection** of logos for each country:
