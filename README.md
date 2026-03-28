@@ -59,7 +59,7 @@ Click the buttons below to explore the **Full Collection** for each country:
 
 ### 🛠️ Quick Start Guide
 To link a logo directly from our CDN, use the following URL format:
-`https://raw.githubusercontent.com/AsimDipto/Logo-box/main/[Country]/[File_Name].png`
+`https://raw.githubusercontent.com/AsimDipto/Logo-box/main/[Country]/[channel-name]-[country_code].png`
 
 ---
 
