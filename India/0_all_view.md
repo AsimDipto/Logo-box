@@ -63,7 +63,7 @@
 | ![zee-sarthak] | ![zee-talkies-hd] | ![zee-talkies] | ![zee-tamil-hd] | ![zee-tamil] | ![zee-tamil-news] |
 | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] | ![zee-tv-hd] |
 | ![zee-tv] | ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] |
-| ![zing] | ![zoom] | ![space] | ![space] | ![space] | ![space] |
+| ![zing] | ![zoom] | ![zee-bangla-sonar] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -441,6 +441,7 @@
 [zee-zindagi]:zee-zindagi-in.png
 [zing]:zing-in.png
 [zoom]:zoom-in.png
+[zee-bangla-sonar]:zee-bangla-sonar-in.png
 
 [space]:../../misc/space-1500.png "Space"
 
