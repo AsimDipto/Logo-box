@@ -66,6 +66,7 @@
 | ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [1sports]:1sports-in.png
