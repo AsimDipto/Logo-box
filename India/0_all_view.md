@@ -465,7 +465,7 @@
 [star-sports-1-telugu-hd]:star-sports-1-telugu-hd-in.png
 [star-sports-1-tamil-hd]:star-sports-1-tamil-hd-in.png
 [star-sports-2-tamil-hd]:star-sports-2-tamil-hd-in.png
-[star-sports-2-tamil]:[star-sports-2-tamil-in.png
+[star-sports-2-tamil]:star-sports-2-tamil-in.png
 
 
 
