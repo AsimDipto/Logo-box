@@ -464,8 +464,8 @@
 [colors-super]:colors-super-in.png
 [star-sports-1-hd-telugu]:star-sports-1-hd-telugu-in.png
 [star-sports-1-hd-tamil]:star-sports-1-hd-tamil-in.png
-[star-sports-2-hd-tamil]:star-sports-2-tamil-in.png
-[star-sports-2-tamil]:star-sports-2-hd-tamil-in.png
+[star-sports-2-hd-tamil]:star-sports-2-hd-tamil-in.png
+[star-sports-2-tamil]:star-sports-2-tamil-in.png
 [dengal-2]:dengal-2-in.png
 [enter10-bangla]:enter10-bangla-in.png
 [star-sports-1-hd-hindi]:star-sports-1-hd-hindi-in.png
