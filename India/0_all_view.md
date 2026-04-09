@@ -64,7 +64,7 @@
 | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] | ![zee-tv-hd] |
 | ![zee-tv] | ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] |
 | ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
-| ![star-sports-1-tamil-hd] | ![star-sports-2-tamil] | ![star-sports-2-tamil-hd] | ![star-sports-1-telugu-hd] | ![space] | ![space] |
+| ![star-sports-1-tamil-hd] | ![star-sports-2-tamil] | ![star-sports-2-tamil-hd] | ![star-sports-1-telugu-hd] | ![star-sports-1-hd-hindi] | ![space] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![colors-kannada] | ![colors-kannada-hd] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] |
 | ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![space] | ![space] | ![space] |
@@ -468,7 +468,7 @@
 [star-sports-2-tamil]:star-sports-2-tamil-in.png
 [dengal-2]:dengal-2-in.png
 [enter10-bangla]:enter10-bangla-in.png
-
+[star-sports-1-hd-hindi]:star-sports-1-hd-hindi-in.png
 
 
 [space]:../../misc/space-1500.png "Space"
