@@ -445,6 +445,9 @@
 [zee-bangla-sonar]:zee-bangla-sonar-in.png
 [star-sports-select-1-hd]:star-sports-select-1-hd-in.png
 [star-sports-select-2-hd]:star-sports-select-2-hd-in.png
+[star-sports-1-hd]:star-sports-1-hd-in.png
+[star-sports-2-hd]:star-sports-2-hd-in.png
+[star-sports-3-hd]:star-sports-3-hd-in.png
 
 [space]:../../misc/space-1500.png "Space"
 
