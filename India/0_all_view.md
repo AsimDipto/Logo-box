@@ -67,7 +67,7 @@
 | ![star-sports-1-tamil-hd] | ![star-sports-2-tamil] | ![star-sports-2-tamil-hd] | ![star-sports-1-telugu-hd] | ![space] | ![space] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![colors-kannada] | ![colors-kannada-hd] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] |
-| ![colors-super] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -466,7 +466,8 @@
 [star-sports-1-tamil-hd]:star-sports-1-tamil-hd-in.png
 [star-sports-2-tamil-hd]:star-sports-2-tamil-hd-in.png
 [star-sports-2-tamil]:star-sports-2-tamil-in.png
-
+[dengal-2]:dengal-2-in.png
+[enter10-bangla]:enter10-bangla-in.png
 
 
 
