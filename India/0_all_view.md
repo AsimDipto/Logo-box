@@ -64,7 +64,7 @@
 | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] | ![zee-tv-hd] |
 | ![zee-tv] | ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] |
 | ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
-| ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![space] | ![space] | ![space] | ![space] |
+| ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -448,6 +448,8 @@
 [star-sports-1-hd]:star-sports-1-hd-in.png
 [star-sports-2-hd]:star-sports-2-hd-in.png
 [star-sports-3-hd]:star-sports-3-hd-in.png
+[colors-bangla]:colors-bangla-in.png
+[colors-bangla-hd]:colors-bangla-hd-in.png
 
 [space]:../../misc/space-1500.png "Space"
 
