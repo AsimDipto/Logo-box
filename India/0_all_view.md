@@ -63,7 +63,8 @@
 | ![zee-sarthak] | ![zee-talkies-hd] | ![zee-talkies] | ![zee-tamil-hd] | ![zee-tamil] | ![zee-tamil-news] |
 | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] | ![zee-tv-hd] |
 | ![zee-tv] | ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] |
-| ![zing] | ![zoom] | ![zee-bangla-sonar] | ![space] | ![space] | ![space] |
+| ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
+| ![star-sports-select-1-hd] | ![star-sports-select-2-hd ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -442,6 +443,8 @@
 [zing]:zing-in.png
 [zoom]:zoom-in.png
 [zee-bangla-sonar]:zee-bangla-sonar-in.png
+[star-sports-select-1-hd]:star-sports-select-1-hd-in.png
+[star-sports-select-2-hd]:star-sports-select-2-hd-in.png
 
 [space]:../../misc/space-1500.png "Space"
 
