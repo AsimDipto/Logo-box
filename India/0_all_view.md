@@ -66,6 +66,7 @@
 | ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![colors-kannada] | ![colors-kannada-hd] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] |
+| ![colors-super] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -459,6 +460,6 @@
 [colors-gujarati]:colors-gujarati-in.png
 [colors-gujarati-cinema]:colors-gujarati-cinema-in.png
 [colors-kannada-cinema]:colors-kannada-cinema-in.png
-
+[colors-super]:colors-super-in.png
 [space]:../../misc/space-1500.png "Space"
 
