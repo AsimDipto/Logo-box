@@ -532,5 +532,5 @@
 [star-sports-4]:star-sports-4-in.png
 [animal-planet]:animal-planet-in.png
 [sangeet-bangla]:sangeet-bangla-in.png
-[eurosports-hd]:eurosport-hd-in.png
+[eurosport-hd]:eurosport-hd-in.png
 [space]:../../misc/space-1500.png "Space"
