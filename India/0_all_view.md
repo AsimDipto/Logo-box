@@ -469,6 +469,24 @@
 [dengal-2]:dengal-2-in.png
 [enter10-bangla]:enter10-bangla-in.png
 [star-sports-1-hd-hindi]:star-sports-1-hd-hindi-in.png
+[discovery-turbo]:discovery-turbo-in.png
+[national-geo-wild]:national-geo-wild-in.png
+[national-geo-wild-hd]:national-geo-wild-hd-in.png
+[investigation-discovery-hd]:investigation-discovery-hd-in.png
+[investigation-discovery]:investigation-discovery-i.png
+[tlc-hd]:tlc-hd-in.png
+[tlc]:tlc-in.png
+[discovery-science]:discovery-science-in.png
+[food-food]:food-food-in.png
+[national-geo-graphic]:national-geo-graphic-in.png
+[national-geo-graphic-hd]:national-geo-graphic-hd.png
+[discovery]:discovery-in.png
+[animal-planet-hd]:animal-planet-hd-in.png
+[animal-planet]:animal-planet-in.png
+[discovery-hd]:discovery-hd-in.png
+[disney-channel-hd]:disney-channel-hd-in.png
+[disney-channel]:disney-channel-in.png
+[zee-anmol]:zee-anmol-in.png
 
 
 [space]:../../misc/space-1500.png "Space"
