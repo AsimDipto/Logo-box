@@ -1,79 +1,79 @@
 # India🇮🇳
 
-| ![star-sports-1-hd] | ![star-sports-1] | ![star-sports-1-hd-hindi] | ![star-sports-1-hindi] | ![star-sports-1-hd-tamil] | ![star-sports-1-tamil] |
+| ![1sports] | ![9x-jalwa] | ![9x-jhakaas] | ![9x-tashan] | ![9xm] | ![a1tv] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![star-sports-1-hd-telugu] | ![star-sports-1-telugu] | ![star-sports-1-bangla] | ![star-sports-1-hd-kannada] | ![star-sports-1-kannada] | ![star-sports-1-hd-marathi] |
-| ![star-sports-1-marathi] | ![star-sports-2-hd] | ![star-sports-2] | ![star-sports-2-hd-tamil] | ![star-sports-2-tamil] | ![star-sports-2-hd-hindi] |
-| ![star-sports-2-hd-kannada] | ![star-sports-2-hd-marathi] | ![star-sports-2-hd-telugu] | ![star-sports-2-hd-bangla] | ![star-sports-3-hd] | ![star-sports-3] |
-| ![star-sports-3-hd-hindi] | ![star-sports-3-hd-bangla] | ![star-sports-3-hd-kannada] | ![star-sports-3-hd-marathi] | ![star-sports-3-hd-tamil] | ![star-sports-3-hd-telugu] |
-| ![star-sports-4-hd] | ![star-sports-4] | ![star-sports-select-1-hd] | ![star-sports-select-1] | ![star-sports-select-2-hd] | ![star-sports-select-2] |
-| ![star-sports-first] | ![sports-18] | ![1sports] | ![dd-sports] | ![eurosport] | ![sony-ten-1-hd] |
-| ![sony-ten-1] | ![sony-ten-2-hd] | ![sony-ten-2] | ![sony-ten-3-hd] | ![sony-ten-3] | ![sony-ten-4-hd] |
-| ![sony-ten-4] | ![sony-ten-5-hd] | ![sony-ten-5] | ![9x-jalwa] | ![9x-jhakaas] | ![9x-tashan] |
-| ![9xm] | ![a1tv] | ![aaj-tak-hd] | ![aaj-tak] | ![aakash-aath] | ![aastha-bhajan] |
-| ![aastha] | ![abp-ananda] | ![abp-asmita] | ![abp-ganga] | ![abp-majha] | ![abp-news] |
-| ![abzy-cool] | ![abzy-movies] | ![alankar-tv] | ![anaadi-tv] | ![and-flix-hd] | ![and-flix] |
-| ![and-pictures-hd] | ![and-pictures] | ![and-prive-hd] | ![and-prive] | ![and-tv-hd] | ![and-tv] |
-| ![apn-news] | ![argus] | ![arihant] | ![asianet-hd] | ![asianet] | ![asianet-movies] |
-| ![asianet-news] | ![asianet-plus] | ![assam-talks] | ![awakening] | ![b4u-bhojpuri] | ![b4u-kadak] |
-| ![b4u-movies] | ![b4u-music] | ![balle-balle] | ![bansal-news] | ![bflix-movies] | ![bharat-samachar] |
-| ![bhojpuri-cinema] | ![big-magic] | ![bindass] | ![box-cinema] | ![calcutta-news] | ![cartoon-network-hd-plus] |
-| ![cartoon-network] | ![channel-win] | ![chardikla-time-tv] | ![cinema-tv-india] | ![cna-channel-news-asia] | ![cnbc-awaaz] |
-| ![cnbc-tv18] | ![cnbc-tv18-prime-hd] | ![cnn-news-18] | ![colors-hd] | ![colors] | ![colors-cineplex-hd] |
-| ![colors-cineplex] | ![colors-cineplex-bollywood] | ![colors-cineplex-superhits] | ![colors-infinity-hd] | ![colors-infinity] | ![colors-marathi-hd] |
-| ![colors-marathi] | ![colors-bangla-hd] | ![colors-bangla] | ![colors-bangla-cinema] | ![colors-tamil-hd] | ![colors-tamil] |
-| ![colors-kannada-hd] | ![colors-kannada] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] | ![colors-super] |
-| ![colors-rishtey] | ![dangal] | ![dengal-2] | ![dd-bharati] | ![dd-bihar] | ![dd-india-hd] | ![dd-india] |
+| ![aaj-tak-hd] | ![aaj-tak] | ![aakash-aath] | ![aastha-bhajan] | ![aastha] | ![abp-ananda] |
+| ![abp-asmita] | ![abp-ganga] | ![abp-majha] | ![abp-news] | ![abzy-cool] | ![abzy-movies] |
+| ![alankar-tv] | ![anaadi-tv] | ![and-flix-hd] | ![and-flix] | ![and-pictures-hd] | ![and-pictures] |
+| ![and-prive-hd] | ![and-prive] | ![and-tv-hd] | ![and-tv] | ![apn-news] | ![argus] |
+| ![arihant] | ![asianet-hd] | ![asianet] | ![asianet-movies] | ![asianet-news] | ![asianet-news-hd] |
+| ![asianet-plus] | ![assam-talks] | ![awakening] | ![b4u-bhojpuri] | ![b4u-kadak] | ![b4u-movies] |
+| ![b4u-music] | ![balle-balle] | ![bansal-news] | ![bflix-movies] | ![bharat-samachar] | ![bhojpuri-cinema] |
+| ![big-magic] | ![bindass] | ![box-cinema] | ![calcutta-news] | ![cartoon-network-hd-plus] | ![cartoon-network] |
+| ![channel-win] | ![chardikla-time-tv] | ![cinema-tv-india] | ![cna-channel-news-asia] | ![cnbc-awaaz] | ![cnbc-tv18] |
+| ![cnbc-tv18-prime-hd] | ![cnn-news-18] | ![colors-hd] | ![colors] | ![colors-bangla-hd] | ![colors-bangla] |
+| ![colors-bangla-cinema] | ![colors-cineplex-hd] | ![colors-cineplex] | ![colors-cineplex-bollywood] | ![colors-cineplex-superhits] | ![colors-gujarati] |
+| ![colors-gujarati-cinema] | ![colors-infinity-hd] | ![colors-infinity] | ![colors-kannada-hd] | ![colors-kannada] | ![colors-kannada-cinema] |
+| ![colors-marathi-hd] | ![colors-marathi] | ![colors-rishtey] | ![colors-super] | ![colors-tamil-hd] | ![colors-tamil] |
+| ![dangal] | ![dangal-2] | ![dd-bharati] | ![dd-bihar] | ![dd-india-hd] | ![dd-india] |
 | ![dd-kisan] | ![dd-madhya-pradesh] | ![dd-national] | ![dd-news-hd] | ![dd-news] | ![dd-rajasthan] |
-| ![dd-retro] | ![dd-uttar-pradesh] | ![dhinchaak] | ![discovery-hd] | ![discovery] | ![discovery-kids] |
-| ![discovery-science] | ![discovery-turbo] | ![animal-planet-hd] | ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] |
-| ![national-geo-wild] | ![tlc-hd] | ![tlc] | ![investigation-discovery-hd] | ![investigation-discovery] | ![disha-tv] |
-| ![dishum] | ![divya] | ![e24] | ![enterr10-movies] | ![enter10-bangla] | ![enterr10-rangeela] |
-| ![epic] | ![et-now] | ![et-now-swadesh] | ![etv-bal-bharat] | ![fakt-marathi] | ![filamchi-bhojpuri] |
-| ![first-india-news-rajasthan] | ![food-food] | ![gnt] | ![goodtimes] | ![gubbare] | ![gulistan-news] |
-| ![haryana-beats] | ![hindi-khabar] | ![history-tv18-hd] | ![history-tv18] | ![hungama] | ![ibc-24] |
-| ![india-ahead] | ![india-news] | ![india-news-madhya-pradesh-chhattisgarh] | ![india-news-rajasthan] | ![india-news-uttar-pradesh] | ![india-today] |
-| ![india-tv] | ![india-voice] | ![inh-24x7] | ![insync] | ![ishwar-tv] | ![jai-maharashtra] |
-| ![jalsha-movies-hd] | ![jalsha-movies] | ![jan-tv] | ![jantantra-tv] | ![jinvani-channel] | ![kashish-news] |
-| ![lok-sabha-tv] | ![manoranjan] | ![mastiii] | ![mh-one] | ![mh-one-prime] | ![mh-one-shraddha] |
-| ![mirror-now] | ![mn-plus-hd] | ![mnx-hd] | ![mnx] | ![movies-now-hd] | ![movies-now] |
-| ![mtv-beats-hd] | ![mtv-beats] | ![mtv-hd-plus] | ![mtv] | ![naaptol] | ![ndtv-24x7] |
-| ![ndtv-india] | ![ndtv-prime] | ![ndtv-profit] | ![network-10] | ![news-1-india] | ![news-11-bharat] |
-| ![news-18-bihar-jharkhand] | ![news-18-india] | ![news-18-lokmat] | ![news-18-madhya-pradesh-chhattisgarh] | ![news-18-punjab-haryana] | ![news-18-rajasthan] |
-| ![news-18-urdu] | ![news-18-uttar-pradesh-uttarakhand] | ![news-24] | ![news-24-madhya-pradesh-chhattisgarh] | ![news-india-24x7] | ![news-nation] |
-| ![news-state] | ![news-state-madhya-pradesh-chhattisgarh] | ![news-x] | ![nick-hd-plus] | ![nick] | ![nick-jr] |
-| ![nickelodeon-sonic] | ![disney-channel-hd] | ![disney-channel] | ![hungama] | ![super-hungama] | ![sony-yay] |
-| ![oscar-movies] | ![paras-tv] | ![patrika-rajasthan] | ![peace-of-mind] | ![pogo] | ![pravah-picture] |
-| ![prime-news] | ![rajya-sabha-tv] | ![republic-bharat-tv] | ![republic-tv] | ![romedy-now] | ![saam-tv] |
-| ![sadhna-bangla] | ![sadhna-news-madhya-pradesh-chhattisgarh] | ![sadhna-plus-news] | ![salaam-tv] | ![samay] | ![sansad-tv] |
-| ![sanskar] | ![santwani] | ![satsang-tv] | ![sharnam-tv] | ![shemaroo] | ![shemaroo-marathibana] |
-| ![showbox] | ![shubh-tv] | ![sony-entertainment-television-hd] | ![sony-entertainment-television] | ![sony-sab-hd] | ![sony-sab] |
-| ![sony-max-hd] | ![sony-max] | ![sony-max-2-hd] | ![sony-max-2] | ![sony-pix-hd] | ![sony-pix] |
-| ![sony-aath] | ![sony-marathi] | ![sony-pal-hd] | ![sony-pal] | ![sony-wah-hd] | ![sony-wah] |
-| ![sony-bbc-earth-hd] | ![sony-bbc-earth] | ![star-plus-hd] | ![star-plus] | ![star-bharat-hd] | ![star-bharat] |
+| ![dd-retro] | ![dd-sports] | ![dd-uttar-pradesh] | ![dhinchaak] | ![discovery-kids] | ![disha-tv] |
+| ![dishum] | ![divya] | ![e24] | ![enterr10-movies] | ![enterr10-rangeela] | ![enterr10-bangla] |
+| ![epic] | ![et-now] | ![et-now-swadesh] | ![etv-bal-bharat] | ![eurosport] | ![fakt-marathi] |
+| ![filamchi-bhojpuri] | ![first-india-news-rajasthan] | ![food-food] | ![gnt] | ![goodtimes] | ![gubbare] |
+| ![gulistan-news] | ![haryana-beats] | ![hindi-khabar] | ![history-tv18-hd] | ![history-tv18] | ![hungama] |
+| ![ibc-24] | ![india-ahead] | ![india-news] | ![india-news-madhya-pradesh-chhattisgarh] | ![india-news-rajasthan] | ![india-news-uttar-pradesh] |
+| ![india-today] | ![india-tv] | ![india-voice] | ![inh-24x7] | ![insync] | ![ishwar-tv] |
+| ![jai-maharashtra] | ![jalsha-movies-hd] | ![jalsha-movies] | ![jan-tv] | ![jantantra-tv] | ![jinvani-channel] |
+| ![kashish-news] | ![lok-sabha-tv] | ![manoranjan] | ![mastiii] | ![mh-one] | ![mh-one-prime] |
+| ![mh-one-shraddha] | ![mirror-now] | ![mn-plus-hd] | ![mnx-hd] | ![mnx] | ![movies-now-hd] |
+| ![movies-now] | ![mtv-beats-hd] | ![mtv-beats] | ![mtv-hd-plus] | ![mtv] | ![naaptol] |
+| ![ndtv-24x7] | ![ndtv-india] | ![ndtv-prime] | ![ndtv-profit] | ![network-10] | ![news-1-india] |
+| ![news-11-bharat] | ![news-18-bihar-jharkhand] | ![news-18-india] | ![news-18-lokmat] | ![news-18-madhya-pradesh-chhattisgarh] | ![news-18-punjab-haryana] |
+| ![news-18-rajasthan] | ![news-18-urdu] | ![news-18-uttar-pradesh-uttarakhand] | ![news-24] | ![news-24-madhya-pradesh-chhattisgarh] | ![news-india-24x7] |
+| ![news-nation] | ![news-state] | ![news-state-madhya-pradesh-chhattisgarh] | ![news-x] | ![nick-hd-plus] | ![nick] |
+| ![nick-jr] | ![nickelodeon-sonic] | ![oscar-movies] | ![paras-tv] | ![patrika-rajasthan] | ![peace-of-mind] |
+| ![pogo] | ![pravah-picture] | ![prime-news] | ![rajya-sabha-tv] | ![republic-bharat-tv] | ![republic-tv] |
+| ![romedy-now] | ![saam-tv] | ![sadhna-bangla] | ![sadhna-news-madhya-pradesh-chhattisgarh] | ![sadhna-plus-news] | ![salaam-tv] |
+| ![samay] | ![sansad-tv] | ![sanskar] | ![santwani] | ![satsang-tv] | ![sharnam-tv] |
+| ![shemaroo] | ![shemaroo-marathibana] | ![showbox] | ![shubh-tv] | ![sony-aath] | ![sony-bbc-earth-hd] |
+| ![sony-bbc-earth] | ![sony-entertainment-television-hd] | ![sony-entertainment-television] | ![sony-marathi] | ![sony-max-2-hd] | ![sony-max-2] |
+| ![sony-max-hd] | ![sony-max] | ![sony-pal-hd] | ![sony-pal] | ![sony-pix-hd] | ![sony-pix] |
+| ![sony-sab-hd] | ![sony-sab] | ![sony-ten-1-hd] | ![sony-ten-1] | ![sony-ten-2-hd] | ![sony-ten-2] |
+| ![sony-ten-3-hd] | ![sony-ten-3] | ![sony-ten-4-hd] | ![sony-ten-4] | ![sony-ten-5-hd] | ![sony-ten-5] |
+| ![sony-wah-hd] | ![sony-wah] | ![sony-yay] | ![sports-18] | ![star-bharat-hd] | ![star-bharat] |
 | ![star-gold-hd] | ![star-gold] | ![star-gold-2] | ![star-gold-select-hd] | ![star-gold-select] | ![star-jalsha-hd] |
-| ![star-jalsha] | ![star-pravah-hd] | ![star-pravah] | ![star-suvarna-hd] | ![star-suvarna] | ![star-suvarna-plus] |
-| ![star-maa-hd] | ![star-maa] | ![star-maa-movies-hd] | ![star-maa-gold] | ![star-maa-music] | ![star-utsav] |
-| ![star-utsav-movies] | ![star-movies-hd] | ![star-movies] | ![star-movies-select-hd] | ![star-kiran] | ![star-life] |
-| ![star-world-hd] | ![star-world] | ![star-world-premiere-hd] | ![subharti.tv] | ![sudarshan-news] | ![swaraj-express-smbc] |
-| ![tata-sky-aradhana] | ![tata-sky-astro-duniya] | ![tata-sky-beauty] | ![tata-sky-cooking] | ![tata-sky-curiosity-channel] | ![tata-sky-english-in-hindi] |
-| ![tata-sky-family-health] | ![tata-sky-fitness] | ![tata-sky-fun-learn] | ![tata-sky-hits] | ![tata-sky-hollywood-local] | ![tata-sky-javed-akhtar] |
-| ![tata-sky-jee-prep] | ![tata-sky-neet-prep] | ![tata-sky-seniors] | ![tata-sky-shortstv] | ![tata-sky-smart-manager] | ![tata-sky-theatre] |
-| ![tata-sky-vedic-maths] | ![tehzeeb-tv] | ![the-q] | ![times-now] | ![times-now-navbharat] | ![times-now-world] |
-| ![total-tv] | ![travelxp-4k-hdr] | ![travelxp-4k] | ![travelxp-hd] | ![travelxp] | ![tv9-bharatvarsh] |
-| ![vedic] | ![vijay-tv-hd] | ![vijay-tv] | ![vijay-super] | ![wion] | ![zee-tv-hd] |
-| ![zee-tv] | ![zee-cinema-hd] | ![zee-cinema] | ![zee-action] | ![zee-classic] | ![zee-bollywood] |
-| ![zee-anmol] | ![zee-anmol-cinema] | ![zee-cafe-hd] | ![zee-cafe] | ![zee-zest-hd] | ![zee-zest] |
-| ![zee-marathi-hd] | ![zee-marathi] | ![zee-bangla-hd] | ![zee-bangla] | ![zee-bangla-cinema] | ![zee-bangla-sonar] |
-| ![zee-yuva] | ![zee-talkies-hd] | ![zee-talkies] | ![zee-kannada-hd] | ![zee-kannada] | ![zee-picchar-hd] |
-| ![zee-picchar] | ![zee-keralam-hd] | ![zee-keralam] | ![zee-tamil-hd] | ![zee-tamil] | ![zee-thirai-hd] |
-| ![zee-thirai] | ![zee-telugu-hd] | ![zee-telugu] | ![zee-cinemalu-hd] | ![zee-cinemalu] | ![zee-sarthak] |
-| ![zee-ganga] | ![zee-biskope] | ![zee-chitramandir] | ![zee-hindustan] | ![zee-news-hd] | ![zee-news] |
-| ![zee-business] | ![zee-24-ghanta] | ![zee-24-taas] | ![zee-24-kalak] | ![zee-punjabi] | ![zee-bharat] |
-| ![zee-bihar-jharkhand] | ![zee-delhi-ncr-haryana] | ![zee-jk-ladakh] | ![zee-madhya-pradesh-chattisgarh] | ![zee-malayalam-news] | ![zee-odisha-news] |
-| ![zee-punjab-haryana-himachal] | ![zee-rajasthan] | ![zee-tamil-news] | ![zee-telugu-news] | ![zee-kannada-news] | ![zee-uttar-pradesh-uttarakhand] |
-| ![zee-zindagi] | ![zing] | ![zoom] | ![space] | ![space] | ![space] |
-| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![star-jalsha] | ![star-kiran] | ![star-life] | ![star-maa-hd] | ![star-maa] | ![star-maa-gold] |
+| ![star-maa-movies-hd] | ![star-maa-music] | ![star-movies-hd] | ![star-movies] | ![star-movies-select-hd] | ![star-plus-hd] |
+| ![star-plus] | ![star-pravah-hd] | ![star-pravah] | ![star-sports-1-hd] | ![star-sports-1] | ![star-sports-1-hd-hindi] |
+| ![star-sports-1-hindi] | ![star-sports-1-hd-bangla] | ![star-sports-1-bangla] | ![star-sports-1-hd-marathi] | ![star-sports-1-hd-telugu] | ![star-sports-1-telugu] |
+| ![star-sports-1-hd-tamil] | ![star-sports-1-tamil] | ![star-sports-1-hd-kannada] | ![star-sports-1-kannada] | ![star-sports-2-hd] | ![star-sports-2] |
+| ![star-sports-2-hd-bangla] | ![star-sports-2-bangla] | ![star-sports-2-hd-hindi] | ![star-sports-2-hindi] | ![star-sports-2-hd-marathi] | ![star-sports-2-marathi] |
+| ![star-sports-2-hd-telugu] | ![star-sports-2-telugu] | ![star-sports-2-hd-tamil] | ![star-sports-2-tamil] | ![star-sports-3-hd] | ![star-sports-3] |
+| ![star-sports-3-hd-bangla] | ![star-sports-3-bangla] | ![star-sports-3-hd-hindi] | ![star-sports-3-hindi] | ![star-sports-3-hd-marathi] | ![star-sports-3-marathi] |
+| ![star-sports-3-hd-telugu] | ![star-sports-3-telugu] | ![star-sports-3-hd-tamil] | ![star-sports-3-tamil] | ![star-sports-3-hd-kannada] | ![star-sports-3-kannada] |
+| ![star-sports-4-hd] | ![star-sports-4] | ![star-sports-first] | ![star-sports-select-1-hd] | ![star-sports-select-1] | ![star-sports-select-2-hd] |
+| ![star-sports-select-2] | ![star-suvarna-hd] | ![star-suvarna] | ![star-suvarna-plus] | ![star-utsav] | ![star-utsav-movies] |
+| ![star-world-hd] | ![star-world] | ![star-world-premiere-hd] | ![subharti.tv] | ![sudarshan-news] | ![super-hungama] |
+| ![swaraj-express-smbc] | ![tata-sky-aradhana] | ![tata-sky-astro-duniya] | ![tata-sky-beauty] | ![tata-sky-cooking] | ![tata-sky-curiosity-channel] |
+| ![tata-sky-english-in-hindi] | ![tata-sky-family-health] | ![tata-sky-fitness] | ![tata-sky-fun-learn] | ![tata-sky-hits] | ![tata-sky-hollywood-local] |
+| ![tata-sky-javed-akhtar] | ![tata-sky-jee-prep] | ![tata-sky-neet-prep] | ![tata-sky-seniors] | ![tata-sky-shortstv] | ![tata-sky-smart-manager] |
+| ![tata-sky-theatre] | ![tata-sky-vedic-maths] | ![tehzeeb-tv] | ![the-q] | ![times-now] | ![times-now-navbharat] |
+| ![times-now-world] | ![total-tv] | ![travelxp-4k-hdr] | ![travelxp-4k] | ![travelxp-hd] | ![travelxp] |
+| ![tv9-bharatvarsh] | ![vedic] | ![vijay-super] | ![vijay-tv-hd] | ![vijay-tv] | ![wion] |
+| ![zee-tv-hd] | ![zee-tv] | ![zee-anmol] | ![zee-anmol-cinema] | ![zee-action] | ![zee-bangla-hd] |
+| ![zee-bangla] | ![zee-bangla-cinema] | ![zee-bangla-sonar] | ![zee-bharat] | ![zee-bihar-jharkhand] | ![zee-biskope] |
+| ![zee-bollywood] | ![zee-business] | ![zee-cafe-hd] | ![zee-cafe] | ![zee-chitramandir] | ![zee-cinema-hd] |
+| ![zee-cinema] | ![zee-cinemalu-hd] | ![zee-cinemalu] | ![zee-classic] | ![zee-delhi-ncr-haryana] | ![zee-ganga] |
+| ![zee-hindustan] | ![zee-jk-ladakh] | ![zee-kannada-hd] | ![zee-kannada] | ![zee-kannada-news] | ![zee-keralam-hd] |
+| ![zee-keralam] | ![zee-madhya-pradesh-chattisgarh] | ![zee-malayalam-news] | ![zee-marathi-hd] | ![zee-marathi] | ![zee-news-hd] |
+| ![zee-news] | ![zee-odisha-news] | ![zee-picchar-hd] | ![zee-picchar] | ![zee-punjab-haryana-himachal] | ![zee-punjabi] |
+| ![zee-rajasthan] | ![zee-sarthak] | ![zee-talkies-hd] | ![zee-talkies] | ![zee-tamil-hd] | ![zee-tamil] |
+| ![zee-tamil-news] | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] |
+| ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] | ![zing] |
+| ![zoom] | ![disney-channel-hd] | ![disney-channel] | ![discovery-hd] | ![discovery] | ![discovery-science] |
+| ![discovery-turbo] | ![investigation-discovery-hd] | ![investigation-discovery] | ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] |
+| ![national-geo-wild] | ![tlc-hd] | ![tlc] | ![animal-planet-hd] | ![space] | ![space] |
 
 
 [1sports]:1sports-in.png
@@ -149,6 +149,7 @@
 [colors-marathi]:colors-marathi-in.png
 [colors-rishtey]:colors-rishtey-in.png
 [dangal]:dangal-in.png
+[dangal-2]:dengal-2-in.png
 [dd-bharati]:dd-bharati-in.png
 [dd-bihar]:dd-bihar-in.png
 [dd-india-hd]:dd-india-hd-in.png
@@ -170,6 +171,7 @@
 [e24]:e24-in.png
 [enterr10-movies]:enterr10-movies-in.png
 [enterr10-rangeela]:enterr10-rangeela-in.png
+[enterr10-bangla]:enter10-bangla-in.png
 [epic]:epic-in.png
 [et-now]:et-now-in.png
 [et-now-swadesh]:et-now-swadesh-in.png
@@ -308,18 +310,18 @@
 [sports-18]:sports-18-in.png
 [star-bharat-hd]:star-bharat-hd-in.png
 [star-bharat]:star-bharat-in.png
-[star-gold-2]:star-gold-2-in.png
 [star-gold-hd]:star-gold-hd-in.png
 [star-gold]:star-gold-in.png
+[star-gold-2]:star-gold-2-in.png
 [star-gold-select-hd]:star-gold-select-hd-in.png
 [star-gold-select]:star-gold-select-in.png
 [star-jalsha-hd]:star-jalsha-hd-in.png
 [star-jalsha]:star-jalsha-in.png
 [star-kiran]:star-kiran-in.png
 [star-life]:star-life-in.png
-[star-maa-gold]:star-maa-gold-in.png
 [star-maa-hd]:star-maa-hd-in.png
 [star-maa]:star-maa-in.png
+[star-maa-gold]:star-maa-gold-in.png
 [star-maa-movies-hd]:star-maa-movies-hd-in.png
 [star-maa-music]:star-maa-music-in.png
 [star-movies-hd]:star-movies-hd-in.png
@@ -329,17 +331,51 @@
 [star-plus]:star-plus-in.png
 [star-pravah-hd]:star-pravah-hd-in.png
 [star-pravah]:star-pravah-in.png
-[star-sports-1-bangla]:star-sports-1-bangla-in.png
-[star-sports-1-hindi]:star-sports-1-hindi-in.png
+[star-sports-1-hd]:star-sports-1-hd-in.png
 [star-sports-1]:star-sports-1-in.png
-[star-sports-1-kannada]:star-sports-1-kannada-in.png
-[star-sports-1-marathi]:star-sports-1-marathi-in.png
-[star-sports-1-tamil]:star-sports-1-tamil-in.png
+[star-sports-1-hd-hindi]:star-sports-1-hd-hindi-in.png
+[star-sports-1-hindi]:star-sports-1-hindi-in.png
+[star-sports-1-hd-bangla]:star-sports-1-hd-bangla-in.png
+[star-sports-1-bangla]:star-sports-1-bangla-in.png
+[star-sports-1-hd-marathi]:star-sports-1-hd-marathi-in.png
+[star-sports-1-hd-telugu]:star-sports-1-hd-telugu-in.png
 [star-sports-1-telugu]:star-sports-1-telugu-in.png
+[star-sports-1-hd-tamil]:star-sports-1-hd-tamil-in.png
+[star-sports-1-tamil]:star-sports-1-tamil-in.png
+[star-sports-1-hd-kannada]:star-sports-1-hd-kannada-in.png
+[star-sports-1-kannada]:star-sports-1-kannada-in.png
+[star-sports-2-hd]:star-sports-2-hd-in.png
 [star-sports-2]:star-sports-2-in.png
+[star-sports-2-hd-bangla]:star-sports-2-hd-bangla-in.png
+[star-sports-2-bangla]:star-sports-2-bangla-in.png
+[star-sports-2-hd-hindi]:star-sports-2-hd-hindi-in.png
+[star-sports-2-hindi]:star-sports-2-hindi-in.png
+[star-sports-2-hd-marathi]:star-sports-2-hd-marathi-in.png
+[star-sports-2-marathi]:star-sports-2-marathi-in.png
+[star-sports-2-hd-telugu]:star-sports-2-hd-telugu-in.png
+[star-sports-2-telugu]:star-sports-2-telugu-in.png
+[star-sports-2-hd-tamil]:star-sports-2-hd-tamil-in.png
+[star-sports-2-tamil]:star-sports-2-tamil-in.png
+[star-sports-3-hd]:star-sports-3-hd-in.png
 [star-sports-3]:star-sports-3-in.png
+[star-sports-3-hd-bangla]:star-sports-3-hd-bangla-in.png
+[star-sports-3-bangla]:star-sports-3-bangla-in.png
+[star-sports-3-hd-hindi]:star-sports-3-hd-hindi-in.png
+[star-sports-3-hindi]:star-sports-3-hindi-in.png
+[star-sports-3-hd-marathi]:star-sports-3-hd-marathi-in.png
+[star-sports-3-marathi]:star-sports-3-marathi-in.png
+[star-sports-3-hd-telugu]:star-sports-3-hd-telugu-in.png
+[star-sports-3-telugu]:star-sports-3-telugu-in.png
+[star-sports-3-hd-tamil]:star-sports-3-hd-tamil-in.png
+[star-sports-3-tamil]:star-sports-3-tamil-in.png
+[star-sports-3-hd-kannada]:star-sports-3-hd-kannada-in.png
+[star-sports-3-kannada]:star-sports-3-kannada-in.png
+[star-sports-4-hd]:star-sports-4-hd-in.png
+[star-sports-4]:star-sports-4-in.png
 [star-sports-first]:star-sports-first-in.png
+[star-sports-select-1-hd]:star-sports-select-1-hd-in.png
 [star-sports-select-1]:star-sports-select-1-in.png
+[star-sports-select-2-hd]:star-sports-select-2-hd-in.png
 [star-sports-select-2]:star-sports-select-2-in.png
 [star-suvarna-hd]:star-suvarna-hd-in.png
 [star-suvarna]:star-suvarna-in.png
@@ -388,14 +424,18 @@
 [vijay-tv-hd]:vijay-tv-hd-in.png
 [vijay-tv]:vijay-tv-in.png
 [wion]:wion-in.png
+[zee-tv-hd]:zee-tv-hd-in.png
+[zee-tv]:zee-tv-in.png
+[zee-anmol]:zee-anmol-in.png
+[zee-anmol-cinema]:zee-anmol-cinema-in.png
 [zee-24-ghanta]:zee-24-ghanta-in.png
 [zee-24-kalak]:zee-24-kalak-in.png
 [zee-24-taas]:zee-24-taas-in.png
 [zee-action]:zee-action-in.png
-[zee-anmol-cinema]:zee-anmol-cinema-in.png
-[zee-bangla-cinema]:zee-bangla-cinema-in.png
 [zee-bangla-hd]:zee-bangla-hd-in.png
 [zee-bangla]:zee-bangla-in.png
+[zee-bangla-cinema]:zee-bangla-cinema-in.png
+[zee-bangla-sonar]:zee-bangla-sonar-in.png
 [zee-bharat]:zee-bharat-in.png
 [zee-bihar-jharkhand]:zee-bihar-jharkhand-in.png
 [zee-biskope]:zee-biskope-in.png
@@ -441,8 +481,6 @@
 [zee-telugu-news]:zee-telugu-news-in.png
 [zee-thirai-hd]:zee-thirai-hd-in.png
 [zee-thirai]:zee-thirai-in.png
-[zee-tv-hd]:zee-tv-hd-in.png
-[zee-tv]:zee-tv-in.png
 [zee-uttar-pradesh-uttarakhand]:zee-uttar-pradesh-uttarakhand-in.png
 [zee-yuva]:zee-yuva-in.png
 [zee-zest-hd]:zee-zest-hd-in.png
@@ -450,12 +488,6 @@
 [zee-zindagi]:zee-zindagi-in.png
 [zing]:zing-in.png
 [zoom]:zoom-in.png
-[zee-bangla-sonar]:zee-bangla-sonar-in.png
-[star-sports-select-1-hd]:star-sports-select-1-hd-in.png
-[star-sports-select-2-hd]:star-sports-select-2-hd-in.png
-[star-sports-1-hd]:star-sports-1-hd-in.png
-[star-sports-2-hd]:star-sports-2-hd-in.png
-[star-sports-3-hd]:star-sports-3-hd-in.png
 [colors-bangla]:colors-bangla-in.png
 [colors-bangla-hd]:colors-bangla-hd-in.png
 [colors-tamil-hd]:colors-tamil-hd-in.png
@@ -467,44 +499,32 @@
 [colors-gujarati-cinema]:colors-gujarati-cinema-in.png
 [colors-kannada-cinema]:colors-kannada-cinema-in.png
 [colors-super]:colors-super-in.png
-[star-sports-1-hd-telugu]:star-sports-1-hd-telugu-in.png
-[star-sports-1-hd-tamil]:star-sports-1-hd-tamil-in.png
-[star-sports-2-hd-tamil]:star-sports-2-hd-tamil-in.png
-[star-sports-2-tamil]:star-sports-2-tamil-in.png
-[dengal-2]:dengal-2-in.png
-[enter10-bangla]:enter10-bangla-in.png
-[star-sports-1-hd-hindi]:star-sports-1-hd-hindi-in.png
-[discovery-turbo]:discovery-turbo-in.png
-[national-geo-wild]:national-geo-wild-in.png
-[national-geo-wild-hd]:national-geo-wild-hd-in.png
-[investigation-discovery-hd]:investigation-discovery-hd-in.png
-[investigation-discovery]:investigation-discovery-in.png
-[tlc-hd]:tlc-hd-in.png
-[tlc]:tlc-in.png
-[discovery-science]:discovery-science-in.png
-[national-geo-graphic]:national-geo-graphic-in.png
-[national-geo-graphic-hd]:national-geo-graphic-hd-in.png
-[discovery]:discovery-in.png
-[animal-planet-hd]:animal-planet-hd-in.png
-[animal-planet]:animal-planet-in.png
-[discovery-hd]:discovery-hd-in.png
 [disney-channel-hd]:disney-channel-hd-in.png
 [disney-channel]:disney-channel-in.png
-[zee-anmol]:zee-anmol-in.png
-[star-sports-3-hd-hindi]:star-sports-3-hd-hindi-in.png
-[star-sports-4-hd]:star-sports-4-hd-in.png
+[discovery-hd]:discovery-hd-in.png
+[discovery]:discovery-in.png
+[discovery-science]:discovery-science-in.png
+[discovery-turbo]:discovery-turbo-in.png
+[investigation-discovery-hd]:investigation-discovery-hd-in.png
+[investigation-discovery]:investigation-discovery-in.png
+[national-geo-graphic-hd]:national-geo-graphic-hd-in.png
+[national-geo-graphic]:national-geo-graphic-in.png
+[national-geo-wild-hd]:national-geo-wild-hd-in.png
+[national-geo-wild]:national-geo-wild-in.png
+[tlc-hd]:tlc-hd-in.png
+[tlc]:tlc-in.png
+[animal-planet-hd]:animal-planet-hd-in.png
 [star-sports-1-hd-bangla]:star-sports-1-hd-bangla-in.png
-[star-sports-1-hd-kannada]:star-sports-1-hd-kannada-in.png
 [star-sports-1-hd-marathi]:star-sports-1-hd-marathi-in.png
+[star-sports-1-hd-kannada]:star-sports-1-hd-kannada-in.png
+[star-sports-2-hd-bangla]:star-sports-2-hd-bangla-in.png
 [star-sports-2-hd-hindi]:star-sports-2-hd-hindi-in.png
-[star-sports-2-hd-kannada]:star-sports-2-hd-kannada-in.png
 [star-sports-2-hd-marathi]:star-sports-2-hd-marathi-in.png
 [star-sports-2-hd-telugu]:star-sports-2-hd-telugu-in.png
-[star-sports-2-hd-bangla]:star-sports-2-hd-bangla-in.png
 [star-sports-3-hd-bangla]:star-sports-3-hd-bangla-in.png
-[star-sports-3-hd-kannada]:star-sports-3-hd-kannada-in.png
 [star-sports-3-hd-marathi]:star-sports-3-hd-marathi-in.png
-[star-sports-3-hd-tamil]:star-sports-3-hd-tamil-in.png
 [star-sports-3-hd-telugu]:star-sports-3-hd-telugu-in.png
+[star-sports-3-hd-tamil]:star-sports-3-hd-tamil-in.png
+[star-sports-3-hd-kannada]:star-sports-3-hd-kannada-in.png
 [star-sports-4]:star-sports-4-in.png
 [space]:../../misc/space-1500.png "Space"
