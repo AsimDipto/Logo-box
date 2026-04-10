@@ -70,7 +70,7 @@
 | ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![zee-anmol] | ![disney-channel] | ![disney-channel-hd] |
 | ![discovery-hd] | ![discovery] | ![discovery-science] | ![discovery-turbo] | ![investigation-discovery-hd] | ![investigation-discovery] |
 | ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] | ![national-geo-wild] | ![tlc-hd] | ![tlc] |
-| ![food-food] | ![animal-planet-hd] | ![animal-planet-hd] | ![space] | ![space] | ![space] |
+| ![star-sports-4-hd] | ![animal-planet-hd] | ![animal-planet-hd] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -492,6 +492,6 @@
 [disney-channel]:disney-channel-in.png
 [zee-anmol]:zee-anmol-in.png
 [star-sports-3-hd-hindi]:star-sports-3-hd-hindi-in.png
-
+[star-sports-4-hd]:star-sports-4-hd-in.png
 [space]:../../misc/space-1500.png "Space"
 
