@@ -478,13 +478,12 @@
 [national-geo-wild]:national-geo-wild-in.png
 [national-geo-wild-hd]:national-geo-wild-hd-in.png
 [investigation-discovery-hd]:investigation-discovery-hd-in.png
-[investigation-discovery]:investigation-discovery-i.png
+[investigation-discovery]:investigation-discovery-in.png
 [tlc-hd]:tlc-hd-in.png
 [tlc]:tlc-in.png
 [discovery-science]:discovery-science-in.png
-[food-food]:food-food-in.png
 [national-geo-graphic]:national-geo-graphic-in.png
-[national-geo-graphic-hd]:national-geo-graphic-hd.png
+[national-geo-graphic-hd]:national-geo-graphic-hd-in.png
 [discovery]:discovery-in.png
 [animal-planet-hd]:animal-planet-hd-in.png
 [animal-planet]:animal-planet-in.png
