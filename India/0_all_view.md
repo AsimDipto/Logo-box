@@ -64,7 +64,7 @@
 | ![zee-telugu-hd] | ![zee-telugu] | ![zee-telugu-news] | ![zee-thirai-hd] | ![zee-thirai] | ![zee-tv-hd] |
 | ![zee-tv] | ![zee-uttar-pradesh-uttarakhand] | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] |
 | ![zing] | ![zoom] | ![zee-bangla-sonar] | ![star-sports-1-hd] | ![star-sports-2-hd] | ![star-sports-3-hd] |
-| ![star-sports-1-hd-tamil] | ![star-sports-2-tamil] | ![star-sports-2-hd-tamil] | ![star-sports-1-hd-telugu] | ![star-sports-1-hd-hindi] | ![space] |
+| ![star-sports-1-hd-tamil] | ![star-sports-2-tamil] | ![star-sports-2-hd-tamil] | ![star-sports-1-hd-telugu] | ![star-sports-1-hd-hindi] | ![star-sports-3-hd-hindi] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![colors-kannada] | ![colors-kannada-hd] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] |
 | ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![zee-anmol] | ![disney-channel] | ![disney-channel-hd] |
@@ -491,7 +491,7 @@
 [disney-channel-hd]:disney-channel-hd-in.png
 [disney-channel]:disney-channel-in.png
 [zee-anmol]:zee-anmol-in.png
-
+[star-sports-3-hd-hindi]:star-sports-3-hd-hindi-in.png
 
 [space]:../../misc/space-1500.png "Space"
 
