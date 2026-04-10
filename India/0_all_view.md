@@ -73,7 +73,7 @@
 | ![zee-yuva] | ![zee-zest-hd] | ![zee-zest] | ![zee-zindagi] | ![zing] | ![zoom] |
 | ![disney-channel-hd] | ![disney-channel] | ![discovery-hd] | ![discovery] | ![discovery-science] | ![discovery-turbo] |
 | ![investigation-discovery-hd] | ![investigation-discovery] | ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] | ![national-geo-wild] |
-| ![tlc-hd] | ![tlc] | ![animal-planet-hd] | ![space] | ![space] | ![space] |
+| ![tlc-hd] | ![tlc] | ![animal-planet-hd] | ![animal-planet] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
