@@ -529,4 +529,6 @@
 [star-sports-3-hd-tamil]:star-sports-3-hd-tamil-in.png
 [star-sports-3-hd-kannada]:star-sports-3-hd-kannada-in.png
 [star-sports-4]:star-sports-4-in.png
+[animal-planet]:animal-planet-in.png
+
 [space]:../../misc/space-1500.png "Space"
