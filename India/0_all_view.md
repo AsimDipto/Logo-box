@@ -67,8 +67,13 @@
 | ![star-sports-1-hd-tamil] | ![star-sports-2-tamil] | ![star-sports-2-hd-tamil] | ![star-sports-1-hd-telugu] | ![star-sports-1-hd-hindi] | ![space] |
 | ![star-sports-select-1-hd] | ![star-sports-select-2-hd] | ![colors-bangla] | ![colors-bangla-hd] | ![colors-bangla-cinema] | ![colors-tamil] |
 | ![colors-tamil-hd] | ![colors-kannada] | ![colors-kannada-hd] | ![colors-kannada-cinema] | ![colors-gujarati] | ![colors-gujarati-cinema] |
-| ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![space] | ![space] | ![space] |
+| ![colors-super] | ![enter10-bangla] | ![dengal-2] | ![zee-anmol] | ![disney-channel] | ![disney-channel-hd] |
+| ![discovery-hd] | ![discovery] | ![dsicovery-science] | ![discovery-turbo] | ![investigation-discovery-hd] | ![investigation-dicovery] |
+| ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] | ![national-geo-wild] | ![tlc-hd] | ![tlc] |
+| ![food-food] | ![animal-planet-hd] | ![animal-planet-hd] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
+
 
 
 [1sports]:1sports-in.png
