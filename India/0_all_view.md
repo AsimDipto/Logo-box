@@ -73,6 +73,7 @@
 | ![zee-bihar-jharkhand] | ![zee-delhi-ncr-haryana] | ![zee-jk-ladakh] | ![zee-madhya-pradesh-chattisgarh] | ![zee-malayalam-news] | ![zee-odisha-news] |
 | ![zee-punjab-haryana-himachal] | ![zee-rajasthan] | ![zee-tamil-news] | ![zee-telugu-news] | ![zee-kannada-news] | ![zee-uttar-pradesh-uttarakhand] |
 | ![zee-zindagi] | ![zing] | ![zoom] | ![space] | ![space] | ![space] |
+| ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [1sports]:1sports-in.png
