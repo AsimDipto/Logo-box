@@ -540,40 +540,40 @@
 [eurosport-hd]:eurosport-hd-in.png
 [shorts-tv]:shorts-tv-in.png
 [zee-anmol-cinema-2]:zee-anmol-cinema-2-in.png
-[sun-tv]: sun-tv-in.png
-[sun-tv-hd]: sun-tv-hd-in.png
-[sun-marathi]: sun-marathi-in.png
-[sun-neo-hd]: sun-neo-hd-in.png
-[sun-music-hd]: sun-music-hd-in.png
-[sun-music]: sun-music-in.png
-[sun-life]: sun-life-in.png
-[sun-bangla]: sun-bangla-in.png
-[sun-news]: sun-news-in.png
-[ktv]: ktv-in.png
-[ktv-hd]: ktv-hd-in.png
-[surya-hd]: surya-hd-in.png
-[surya]: surya-in.png
-[surya-movies]: surya-movies-in.png
-[surya-music]: surya-music-in.png
-[surya-comedy]: surya-comedy-in.png
-[udaya-hd]: udaya-hd-in.png
-[udaya]: udaya-in.png
-[udaya-movies]: udaya-movies-in.png
-[udaya-music]: udaya-music-in.png
-[udaya-comedy]: udaya-comedy-in.png
-[gemini-tv]: gemini-tv-in.png
-[gemini-hd]: gemini-hd-in.png
-[gemini-movies-hd]: gemini-movies-hd-in.png
-[gemini-movies]: gemini-movies-in.png
-[gemini-music-hd]: gemini-music-hd-in.png
-[gemini-music]: gemini-music-in.png
-[gemini-comedy]: gemini-comedy-in.png
-[gemini-life]: gemini-life-in.png
-[adithya-tv]: adithya-tv-in.png
-[kushi-tv]: sun-kushi-tv-in.png
-[chutti-tv]: sun-chutti-tv-in.png
-[kochu-tv]: sun-kochu-tv-in.png
-[chintu-tv]: sun-chintu-tv-in.png
+[sun-tv]:sun-tv-in.png
+[sun-tv-hd]:sun-tv-hd-in.png
+[sun-marathi]:sun-marathi-in.png
+[sun-neo-hd]:sun-neo-hd-in.png
+[sun-music-hd]:sun-music-hd-in.png
+[sun-music]:sun-music-in.png
+[sun-life]:sun-life-in.png
+[sun-bangla]:sun-bangla-in.png
+[sun-news]:sun-news-in.png
+[ktv]:ktv-in.png
+[ktv-hd]:ktv-hd-in.png
+[surya-hd]:surya-hd-in.png
+[surya]:surya-in.png
+[surya-movies]:surya-movies-in.png
+[surya-music]:surya-music-in.png
+[surya-comedy]:surya-comedy-in.png
+[udaya-hd]:udaya-hd-in.png
+[udaya]:udaya-in.png
+[udaya-movies]:udaya-movies-in.png
+[udaya-music]:udaya-music-in.png
+[udaya-comedy]:udaya-comedy-in.png
+[gemini-tv]:gemini-tv-in.png
+[gemini-hd]:gemini-hd-in.png
+[gemini-movies-hd]:gemini-movies-hd-in.png
+[gemini-movies]:gemini-movies-in.png
+[gemini-music-hd]:gemini-music-hd-in.png
+[gemini-music]:gemini-music-in.png
+[gemini-comedy]:gemini-comedy-in.png
+[gemini-life]:gemini-life-in.png
+[adithya-tv]:adithya-tv-in.png
+[kushi-tv]:kushi-tv-in.png
+[chutti-tv]:chutti-tv-in.png
+[kochu-tv]:kochu-tv-in.png
+[chintu-tv]:chintu-tv-in.png
 
 
 [space]:../../misc/space-1500.png "Space"
