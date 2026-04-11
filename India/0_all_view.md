@@ -74,12 +74,13 @@
 | ![disney-channel-hd] | ![disney-channel] | ![discovery-hd] | ![discovery] | ![discovery-science] | ![discovery-turbo] |
 | ![investigation-discovery-hd] | ![investigation-discovery] | ![national-geo-graphic-hd] | ![national-geo-graphic] | ![national-geo-wild-hd] | ![national-geo-wild] |
 | ![tlc-hd] | ![tlc] | ![animal-planet-hd] | ![animal-planet] | ![sangeet-bangla] | ![eurosport-hd] |
-| ![shorts-tv] | ![zee-anmol-cinema-2] | ![sun-tv] | ![sun-tv-hd] | ![sun-marathi] | ![sun-neo-hd] |
-| ![sun-music-hd] | ![sun-music] | ![sun-life] | ![sun-bangla] | ![sun-news] | ![ktv] |
-| ![ktv-hd] | ![surya-hd] | ![surya] | ![surya-movies] | ![surya-music] | ![surya-comedy] |
-| ![udaya-hd] | ![udaya] | ![udaya-movies] | ![udaya-music] | ![udaya-comedy] | ![gemini-tv] |
-| ![gemini-hd] | ![gemini-movies-hd] | ![gemini-movies] | ![gemini-music-hd] | ![gemini-music] | ![gemini-comedy] |
-| ![gemini-life] | ![adithya-tv] | ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] |
+| ![shorts-tv] | ![zee-anmol-cinema-2] | ![sun-tv] | ![sun-tv-hd-dolby-vision] | ![sun-tv-hd] | ![sun-marathi] |
+| ![sun-neo-hd] | ![sun-music-hd] | ![sun-music] | ![sun-life] | ![sun-bangla] | ![sun-news] |
+| ![ktv] | ![ktv-hd] | ![sun-surya-hd-dolby-vision] | ![surya-hd] | ![surya] | ![surya-movies] |
+| ![surya-music] | ![surya-comedy] | ![sun-udaya-hd-dolby-vision] | ![udaya-hd] | ![udaya] | ![udaya-movies] |
+| ![udaya-music] | ![udaya-comedy] | ![sun-gemini-hd-dolby-vision] | ![gemini-tv] | ![gemini-hd] | ![gemini-movies-hd] |
+| ![gemini-movies] | ![gemini-music-hd] | ![gemini-music] | ![gemini-comedy] | ![gemini-life] | ![adithya-tv] |
+| ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -540,40 +541,44 @@
 [eurosport-hd]:eurosport-hd-in.png
 [shorts-tv]:shorts-tv-in.png
 [zee-anmol-cinema-2]:zee-anmol-cinema-2-in.png
-[sun-tv]:sun-tv-in.png
-[sun-tv-hd]:sun-tv-hd-in.png
-[sun-marathi]:sun-marathi-in.png
-[sun-neo-hd]:sun-neo-hd-in.png
-[sun-music-hd]:sun-music-hd-in.png
-[sun-music]:sun-music-in.png
-[sun-life]:sun-life-in.png
-[sun-bangla]:sun-bangla-in.png
-[sun-news]:sun-news-in.png
-[ktv]:ktv-in.png
-[ktv-hd]:ktv-hd-in.png
-[surya-hd]:surya-hd-in.png
-[surya]:surya-in.png
-[surya-movies]:surya-movies-in.png
-[surya-music]:surya-music-in.png
-[surya-comedy]:surya-comedy-in.png
-[udaya-hd]:udaya-hd-in.png
-[udaya]:udaya-in.png
-[udaya-movies]:udaya-movies-in.png
-[udaya-music]:udaya-music-in.png
-[udaya-comedy]:udaya-comedy-in.png
-[gemini-tv]:gemini-tv-in.png
-[gemini-hd]:gemini-hd-in.png
-[gemini-movies-hd]:gemini-movies-hd-in.png
-[gemini-movies]:gemini-movies-in.png
-[gemini-music-hd]:gemini-music-hd-in.png
-[gemini-music]:gemini-music-in.png
-[gemini-comedy]:gemini-comedy-in.png
-[gemini-life]:gemini-life-in.png
-[adithya-tv]:adithya-tv-in.png
-[kushi-tv]:kushi-tv-in.png
-[chutti-tv]:chutti-tv-in.png
-[kochu-tv]:kochu-tv-in.png
-[chintu-tv]:chintu-tv-in.png
+[sun-tv]: sun-tv-in.png
+[sun-tv-hd-dolby-vision]: sun-tv-hd-dolby-vision-in.png
+[sun-tv-hd]: sun-tv-hd-in.png
+[sun-marathi]: sun-marathi-in.png
+[sun-neo-hd]: sun-neo-hd-in.png
+[sun-music-hd]: sun-music-hd-in.png
+[sun-music]: sun-music-in.png
+[sun-life]: sun-life-in.png
+[sun-bangla]: sun-bangla-in.png
+[sun-news]: sun-news-in.png
+[ktv]: ktv-in.png
+[ktv-hd]: ktv-hd-in.png
+[sun-surya-hd-dolby-vision]: sun-surya-hd-dolby-vision-in.png
+[surya-hd]: surya-hd-in.png
+[surya]: surya-in.png
+[surya-movies]: surya-movies-in.png
+[surya-music]: surya-music-in.png
+[surya-comedy]: surya-comedy-in.png
+[sun-udaya-hd-dolby-vision]: sun-udaya-hd-dolby-vision-in.png
+[udaya-hd]: udaya-hd-in.png
+[udaya]: udaya-in.png
+[udaya-movies]: udaya-movies-in.png
+[udaya-music]: udaya-music-in.png
+[udaya-comedy]: udaya-comedy-in.png
+[sun-gemini-hd-dolby-vision]: sun-gemini-hd-dolby-vision-in.png
+[gemini-tv]: gemini-tv-in.png
+[gemini-hd]: gemini-hd-in.png
+[gemini-movies-hd]: gemini-movies-hd-in.png
+[gemini-movies]: gemini-movies-in.png
+[gemini-music-hd]: gemini-music-hd-in.png
+[gemini-music]: gemini-music-in.png
+[gemini-comedy]: gemini-comedy-in.png
+[gemini-life]: gemini-life-in.png
+[adithya-tv]: adithya-tv-in.png
+[kushi-tv]: kushi-tv-in.png
+[chutti-tv]: chutti-tv-in.png
+[kochu-tv]: kochu-tv-in.png
+[chintu-tv]: chintu-tv-in.png
 
 
 [space]:../../misc/space-1500.png "Space"
