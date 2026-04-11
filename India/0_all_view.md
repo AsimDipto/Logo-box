@@ -80,7 +80,7 @@
 | ![surya-music] | ![surya-comedy] | ![sun-udaya-hd-dolby-vision] | ![udaya-hd] | ![udaya] | ![udaya-movies] |
 | ![udaya-music] | ![udaya-comedy] | ![sun-gemini-hd-dolby-vision] | ![gemini-tv] | ![gemini-hd] | ![gemini-movies-hd] |
 | ![gemini-movies] | ![gemini-music-hd] | ![gemini-music] | ![gemini-comedy] | ![gemini-life] | ![adithya-tv] |
-| ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] | ![space] | ![space] |
+| ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] | ![twenty-four] | ![public-tv] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -579,6 +579,7 @@
 [chutti-tv]: chutti-tv-in.png
 [kochu-tv]: kochu-tv-in.png
 [chintu-tv]: chintu-tv-in.png
-
+[twenty-four]:twenty-four-in.png
+[public-tv]:public-tv-in.png
 
 [space]:../../misc/space-1500.png "Space"
