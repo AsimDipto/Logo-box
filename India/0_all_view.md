@@ -81,7 +81,8 @@
 | ![udaya-music] | ![udaya-comedy] | ![sun-gemini-hd-dolby-vision] | ![gemini-tv] | ![gemini-hd] | ![gemini-movies-hd] |
 | ![gemini-movies] | ![gemini-music-hd] | ![gemini-music] | ![gemini-comedy] | ![gemini-life] | ![adithya-tv] |
 | ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] | ![twenty-four] | ![public-tv] |
-| ![dhoom-music] | ![and-xplor-hd] | ![and-xplor] | ![sun-bangla-hd] | ![space] | ![space] |
+| ![dhoom-music] | ![and-xplor-hd] | ![and-xplor] | ![sun-bangla-hd] | ![music-india] | ![sangeet-bhojpuri] |
+| ![sansad-tv-1-hd] | ![sansad-tv-2-hd] | ![korean-drama-active] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -587,5 +588,10 @@
 [and-xplor-hd]:and-xplor-hd-in.png
 [and-xplor]:and-xplor-in.png
 [sun-bangla-hd]:sun-bangla-hd-in.png
+[music-india]:music-india-in.png
+[sangeet-bhojpuri]:sangeet-bhojpuri-in.png
+[sansad-tv-1-hd]:sansad-tv-1-hd-in.png
+[sansad-tv-2-hd]:sansad-tv-2-hd-in.png
+[korean-drama-active]:korean-drama-active-in.png
 
 [space]:../../misc/space-1500.png "Space"
