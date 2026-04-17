@@ -15,6 +15,7 @@
 | **t** | ![deshi-tv] | ![cb-24-tv] | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] |
 | **a** | ![channel-52] | ![channel-s] | ![channel-s-uk] | ![time-tv] | ![star-news] | ![rajdhani] |
 | **🥱** | ![srk-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| **💔** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv]:btv-bd.png
 [btv-hd]:btv-hd-bd.png
