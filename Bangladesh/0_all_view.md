@@ -14,7 +14,7 @@
 | **i** | ![t-sports-hd] | ![global-tv] | ![global-tv-hd] | ![nexus-tv] | ![nexus-tv-hd] | ![green-tv] |
 | **t** | ![deshi-tv] | ![cb-24-tv] | ![deshebideshe-tv] | ![bartoman-television] | ![ayna-tv] | ![biswa-bangla-24-tv] |
 | **a** | ![channel-52] | ![channel-s] | ![channel-s-uk] | ![time-tv] | ![star-news] | ![rajdhani] |
-| **🥱** | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| **🥱** | ![srk-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 [btv]:btv-bd.png
 [btv-hd]:btv-hd-bd.png
@@ -94,4 +94,5 @@
 [bartoman-television]:bartoman-television-bd.png
 [star-news]:star-news-bd.png
 [rajdhani]:rajdhani-bd.png
+[srk-tv]:srk-tv-bd.png
 [space]: https://raw.githubusercontent.com/pypa/warehouse/main/warehouse/static/images/helper-arrow.png
