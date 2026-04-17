@@ -82,7 +82,7 @@
 | ![gemini-movies] | ![gemini-music-hd] | ![gemini-music] | ![gemini-comedy] | ![gemini-life] | ![adithya-tv] |
 | ![kushi-tv] | ![chutti-tv] | ![kochu-tv] | ![chintu-tv] | ![twenty-four] | ![public-tv] |
 | ![dhoom-music] | ![and-xplor-hd] | ![and-xplor] | ![sun-bangla-hd] | ![music-india] | ![sangeet-bhojpuri] |
-| ![sansad-tv-1-hd] | ![sansad-tv-1 | ![sansad-tv-2-hd] | ![korean-drama-active] | ![space] | ![space] |
+| ![sansad-tv-1-hd] | ![sansad-tv-1] | ![sansad-tv-2-hd] | ![korean-drama-active] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
