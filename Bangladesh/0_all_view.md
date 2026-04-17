@@ -96,4 +96,5 @@
 [star-news]:star-news-bd.png
 [rajdhani]:rajdhani-bd.png
 [srk-tv]:srk-tv-bd.png
-[space]: https://raw.githubusercontent.com/pypa/warehouse/main/warehouse/static/images/helper-arrow.png
+
+[space]:../../misc/space-1500.png "Space"
