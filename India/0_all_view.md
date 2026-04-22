@@ -161,7 +161,7 @@
 [colors-marathi]:colors-marathi-in.png
 [colors-rishtey]:colors-rishtey-in.png
 [dangal]:dangal-in.png
-[dangal-2]:dengal-2-in.png
+[dangal-2]:dangal-2-in.png
 [dd-bharati]:dd-bharati-in.png
 [dd-bihar]:dd-bihar-in.png
 [dd-india-hd]:dd-india-hd-in.png
